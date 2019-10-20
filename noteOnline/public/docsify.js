@@ -69,7 +69,7 @@ function config () {
       subMaxLevel: 0,
       loadSidebar: null,
       loadNavbar: null,
-      homepage: 'README.md',
+      homepage: 'Java目录指南.md',
       coverpage: '',
       basePath: '',
       auto2top: false,
