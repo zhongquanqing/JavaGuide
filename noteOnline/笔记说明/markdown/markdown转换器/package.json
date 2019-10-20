@@ -1,0 +1,10 @@
+{
+  "name": "technical",
+  "version": "1.0.0",
+  "description": "非markdown文件转换为markdown文件",
+  "scripts": {
+    "html2markdown": ""
+  },
+  "author": "",
+  "license": "MIT"
+}

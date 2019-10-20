@@ -1,0 +1,69 @@
+{
+  "resultcode": "1",
+  "resultmsg": "",
+  "noInfo": [{
+      "deal_no": "B004",
+      "getno_date": "2017-10-11 08:30:00",
+      "openid": "zhangsan",
+      "id_number": "",
+      "mobile": "13537747040",
+      "state": "正在处理"
+    },
+    {
+      "deal_no": "B005",
+      "getno_date": "2017-10-11 08:30:00",
+      "openid": "zhangsan",
+      "id_number": "",
+      "mobile": "13537747040",
+      "state": "等待处理"
+    },
+    {
+      "deal_no": "B006",
+      "getno_date": "2017-10-11 08:30:00",
+      "openid": "zhangsan",
+      "id_number": "",
+      "mobile": "13537747040",
+      "state": "等待处理"
+    },
+    {
+      "deal_no": "B007",
+      "getno_date": "2017-10-11 08:30:00",
+      "openid": "zhangsan",
+      "id_number": "",
+      "mobile": "13537747040",
+      "state": "等待处理"
+    },
+    {
+      "deal_no": "B008",
+      "getno_date": "2017-10-11 08:30:00",
+      "openid": "zhangsan",
+      "id_number": "",
+      "mobile": "13537747040",
+      "state": "等待处理"
+    },
+    {
+      "deal_no": "B009",
+      "getno_date": "2017-10-11 08:30:00",
+      "openid": "zhangsan",
+      "id_number": "",
+      "mobile": "13537747040",
+      "state": "等待处理"
+    },
+    {
+      "deal_no": "B011",
+      "getno_date": "2017-10-11 08:30:00",
+      "openid": "zhangsan",
+      "id_number": "430421198709238393",
+      "mobile": "13537747040",
+      "state": "等待处理"
+    },
+    {
+      "deal_no": "A010",
+      "getno_date": "2017-10-11 11:05:59",
+      "openid": "",
+      "id_number": "",
+      "mobile": "",
+      "state": "等待处理"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "rows": 20,
+  "page": 1,
+  "total": 0,
+  "queryList": [],
+  "userId": null,
+  "sort": null,
+  "order": null,
+  "searchTxt": null,
+  "searchTexts": null,
+  "filterRules": null,
+  "result": {
+    "rows": [],
+    "total": 0
+  }
+}

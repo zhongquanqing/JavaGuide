@@ -1,0 +1,193 @@
+[{
+  "id": "00000001-0000-0000-0010-000000000001",
+  "text": "个人文件",
+  "children": [{
+    "id": "1",
+    "text": "Susan Clark",
+    "parentId": "00000001-0000-0000-0010-000000000001",
+    "isLeaf": true,
+    "children": []
+  }, {
+    "id": "2",
+    "text": "Kevin Williams",
+    "parentId": "00000001-0000-0000-0010-000000000001",
+    "isLeaf": true,
+    "children": []
+  }, {
+    "id": "3",
+    "text": "Kimberly Davis",
+    "parentId": "00000001-0000-0000-0010-000000000001",
+    "children": [{
+      "id": "31",
+      "text": "Susan Hall",
+      "parentId": "3",
+      "children": [{
+        "id": "311",
+        "text": "David Harris",
+        "isLeaf": true,
+        "parentId": "31",
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "4",
+    "text": "Christopher Harris",
+    "parentId": "00000001-0000-0000-0010-000000000001",
+    "children": [{
+      "id": "41",
+      "text": "Kevin White",
+      "parentId": "4",
+      "children": [{
+        "id": "320000198604075822",
+        "text": "George Jackson",
+        "parentId": "320000198604075822",
+        "isLeaf": true,
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "5",
+    "text": "Paul Rodriguez",
+    "parentId": "00000001-0000-0000-0010-000000000001",
+    "children": [{
+      "id": "51",
+      "text": "Ruth Miller",
+      "parentId": "5",
+      "children": [{
+        "id": "511",
+        "text": "Edward Johnson",
+        "parentId": "51",
+        "isLeaf": true,
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "6",
+    "text": "Richard Rodriguez",
+    "parentId": "00000001-0000-0000-0010-000000000001",
+    "children": [{
+      "id": "61",
+      "text": "Sandra Garcia",
+      "parentId": "6",
+      "children": [{
+        "id": "611",
+        "text": "Betty Davis",
+        "isLeaf": true,
+        "parentId": "61",
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "7",
+    "text": "Matthew Hernandez",
+    "parentId": "00000001-0000-0000-0010-000000000001",
+    "children": [{
+      "id": "71",
+      "text": "Brenda Williams",
+      "parentId": "7",
+      "children": [{
+        "id": "711",
+        "text": "Gary Young",
+        "parentId": "71",
+        "isLeaf": true,
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "8",
+    "text": "Jason Martinez",
+    "parentId": "00000001-0000-0000-0010-000000000001",
+    "children": [{
+      "id": "81",
+      "text": "Patricia Hall",
+      "parentId": "8",
+      "children": [{
+        "id": "811",
+        "text": "Jennifer Moore",
+        "isLeaf": true,
+        "parentId": "81",
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "9",
+    "text": "Brenda Clark",
+    "parentId": "00000001-0000-0000-0010-000000000001",
+    "children": [{
+      "id": "91",
+      "text": "Melissa Clark",
+      "parentId": "9",
+      "children": [{
+        "id": "911",
+        "text": "Sarah Walker",
+        "isLeaf": true,
+        "parentId": "91",
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "10",
+    "text": "Nancy Wilson",
+    "parentId": "00000001-0000-0000-0010-000000000001",
+    "children": [{
+      "id": "101",
+      "text": "Sarah Thomas",
+      "parentId": "10",
+      "children": [{
+        "id": "1011",
+        "text": "David Wilson",
+        "parentId": "101",
+        "isLeaf": true,
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "11",
+    "text": "Jennifer Martin",
+    "parentId": "00000001-0000-0000-0010-000000000001",
+    "children": [{
+      "id": "111",
+      "text": "Jose White",
+      "parentId": "11",
+      "children": [{
+        "id": "1111",
+        "text": "Barbara Lewis",
+        "parentId": "111",
+        "isLeaf": true,
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "460000198707197401",
+    "text": "Nancy Williams",
+    "parentId": "00000001-0000-0000-0010-000000000001",
+    "children": [{
+      "id": "610000201304286082",
+      "text": "Kenneth Thomas",
+      "parentId": "610000201304286082",
+      "children": [{
+        "id": "820000201608246847",
+        "text": "Amy Anderson",
+        "isLeaf": true,
+        "parentId": "820000201608246847",
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "820000197309150424",
+    "text": "Eric Robinson",
+    "parentId": "00000001-0000-0000-0010-000000000001",
+    "children": [{
+      "id": "540000198601194333",
+      "text": "Nancy Martin",
+      "parentId": "540000198601194333",
+      "children": [{
+        "id": "710000198908032584",
+        "isLeaf": true,
+        "text": "David Lee",
+        "parentId": "710000198908032584",
+        "children": []
+      }]
+    }]
+  }]
+}]

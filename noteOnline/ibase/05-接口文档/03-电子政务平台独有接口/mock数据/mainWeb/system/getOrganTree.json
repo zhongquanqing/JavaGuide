@@ -1,0 +1,6430 @@
+[{
+  "id": "47fbe92f-e702-44be-8587-af2f923d133c",
+  "text": "清远市自然资源局",
+  "iconCls": "icon-dept",
+  "sort": 0,
+  "attributes": {
+    "organType": 0,
+    "namePinYinHeadChar": "QYSZRZYJ",
+    "status": 2
+  },
+  "children": [{
+    "id": "26a6eb8b-1fc8-4d51-8e54-c1354d6010e4",
+    "text": "局领导",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 1,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "JLD",
+      "status": 1
+    },
+    "children": [{
+      "id": "cd57cf4b-1bf2-4610-9f53-26d56a4d132f",
+      "text": "局长",
+      "iconCls": "icon-post",
+      "parentId": "26a6eb8b-1fc8-4d51-8e54-c1354d6010e4",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "JZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "f95da486-fc24-444a-9725-12b00f1e5384",
+        "text": "杨蔚宁",
+        "iconCls": "icon-man",
+        "parentId": "cd57cf4b-1bf2-4610-9f53-26d56a4d132f",
+        "sort": 1,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "YYN",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "f232a964-261f-4fe8-8b92-380328bee682",
+        "text": "会议用户",
+        "iconCls": "icon-man",
+        "parentId": "cd57cf4b-1bf2-4610-9f53-26d56a4d132f",
+        "sort": 2,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HYYH",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "a8ee19d3-5788-4c89-9ed6-ca96a2a17273",
+      "text": "分管领导",
+      "iconCls": "icon-post",
+      "parentId": "26a6eb8b-1fc8-4d51-8e54-c1354d6010e4",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "b4c6d488-5147-4f9f-94d6-99ede2619297",
+        "text": "林英营",
+        "iconCls": "icon-man",
+        "parentId": "a8ee19d3-5788-4c89-9ed6-ca96a2a17273",
+        "sort": 0,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LYY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "c9d9bf7e-a35f-4bab-b83c-f5928d3a9cdf",
+        "text": "黄卫",
+        "iconCls": "icon-man",
+        "parentId": "a8ee19d3-5788-4c89-9ed6-ca96a2a17273",
+        "sort": 1,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HW",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "6cfdbf1c-6a68-4972-8a11-d0d7cc54bd7b",
+        "text": "童立定",
+        "iconCls": "icon-man",
+        "parentId": "a8ee19d3-5788-4c89-9ed6-ca96a2a17273",
+        "sort": 2,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TLD",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "48fe2285-86ce-4941-a90f-3ca470b00812",
+        "text": "钟华山",
+        "iconCls": "icon-man",
+        "parentId": "a8ee19d3-5788-4c89-9ed6-ca96a2a17273",
+        "sort": 3,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZHS",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "8be3a512-9c0e-49db-bf42-0b4eb142f3ae",
+        "text": "麦卫忠",
+        "iconCls": "icon-man",
+        "parentId": "a8ee19d3-5788-4c89-9ed6-ca96a2a17273",
+        "sort": 4,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "MWZ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "1b270426-cda6-430a-9180-14546a3f6291",
+        "text": "古长森",
+        "iconCls": "icon-man",
+        "parentId": "a8ee19d3-5788-4c89-9ed6-ca96a2a17273",
+        "sort": 5,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "GZS",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "f03c5ebd-300e-4ace-9411-b796e5e835bd",
+        "text": "吕连恩",
+        "iconCls": "icon-man",
+        "parentId": "a8ee19d3-5788-4c89-9ed6-ca96a2a17273",
+        "sort": 6,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LLE",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "326515aa-aee4-4f53-b9e5-b00df93f523f",
+      "text": "协管领导",
+      "iconCls": "icon-post",
+      "parentId": "26a6eb8b-1fc8-4d51-8e54-c1354d6010e4",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "XGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "e9522306-5901-4c9c-a54e-eca714ffeac2",
+        "text": "林韶建",
+        "iconCls": "icon-man",
+        "parentId": "326515aa-aee4-4f53-b9e5-b00df93f523f",
+        "sort": 0,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LSJ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "00e50715-0543-43e0-a6fe-62a43ce00312",
+        "text": "赖付标",
+        "iconCls": "icon-man",
+        "parentId": "326515aa-aee4-4f53-b9e5-b00df93f523f",
+        "sort": 1,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LFB",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "ef393667-6a37-4ad9-95f3-89739fcd9016",
+    "text": "办公室",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 2,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "BGS",
+      "status": 1
+    },
+    "children": [{
+      "id": "c18a0b90-92f8-4f3b-a56c-25a0654f9968",
+      "text": "办公室分管领导",
+      "iconCls": "icon-post",
+      "parentId": "ef393667-6a37-4ad9-95f3-89739fcd9016",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "BGSFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "8be3a512-9c0e-49db-bf42-0b4eb142f3ae",
+        "text": "麦卫忠",
+        "iconCls": "icon-man",
+        "parentId": "c18a0b90-92f8-4f3b-a56c-25a0654f9968",
+        "sort": 6,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "MWZ",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "7fe7ae76-acce-4c7a-b495-620c8e6d0a0a",
+      "text": "主任",
+      "iconCls": "icon-post",
+      "parentId": "ef393667-6a37-4ad9-95f3-89739fcd9016",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "ZR",
+        "status": 1
+      },
+      "children": [{
+        "id": "cdf0f5a6-6ce1-47d2-9ca5-214ceb740e5b",
+        "text": "邓列列",
+        "iconCls": "icon-man",
+        "parentId": "7fe7ae76-acce-4c7a-b495-620c8e6d0a0a",
+        "sort": 11,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "DLL",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "cd4a595d-e54e-4a60-bd3f-928450b402bd",
+      "text": "副主任",
+      "iconCls": "icon-post",
+      "parentId": "ef393667-6a37-4ad9-95f3-89739fcd9016",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FZR",
+        "status": 1
+      },
+      "children": [{
+        "id": "cf931725-4bf2-491d-abcb-6aac9c9ec6b5",
+        "text": "翁伟",
+        "iconCls": "icon-man",
+        "parentId": "cd4a595d-e54e-4a60-bd3f-928450b402bd",
+        "sort": 12,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WW",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "1348ea40-c9a7-449e-aca7-aa6c2fafd043",
+      "text": "收发文",
+      "iconCls": "icon-post",
+      "parentId": "ef393667-6a37-4ad9-95f3-89739fcd9016",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "SFW",
+        "status": 1
+      },
+      "children": [{
+        "id": "af7b0c7a-a3b5-48a3-9746-49d2a7619058",
+        "text": "陈伟",
+        "iconCls": "icon-man",
+        "parentId": "1348ea40-c9a7-449e-aca7-aa6c2fafd043",
+        "sort": 13,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CW",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "eb468b41-bce7-4ed6-8757-805f77f80180",
+        "text": "徐劲燕",
+        "iconCls": "icon-man",
+        "parentId": "1348ea40-c9a7-449e-aca7-aa6c2fafd043",
+        "sort": 14,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "XJY",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+      "text": "职员",
+      "iconCls": "icon-post",
+      "parentId": "ef393667-6a37-4ad9-95f3-89739fcd9016",
+      "sort": 4,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "ZY",
+        "status": 1
+      },
+      "children": [{
+        "id": "74fa4763-4da6-4f87-8899-4fa9bca84eb9",
+        "text": "李笑梅",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 15,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LXM",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "6df45c9e-9df3-491d-9eea-d756b71d137f",
+        "text": "李海涛",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 16,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LHT",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "aa209887-aa13-4be6-a806-e2f1b3c356da",
+        "text": "刘楚恒",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 17,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LCH",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "e68756a7-455a-426b-9f30-6661a3a003f0",
+        "text": "刘莉",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 18,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LL",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "a7d447cd-d433-46e4-ae00-03448051134f",
+        "text": "陈飞京",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 19,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CFJ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "6a3562d3-a8ed-400e-93f9-9a29330e1943",
+        "text": "黎剑芬",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 20,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LJF",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "527d1ae8-fee8-4212-a6d4-113a4c7e0d8a",
+        "text": "何淑贞",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 21,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HSZ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "7a2b4848-974e-4989-a0cf-d1b51bbc948c",
+        "text": "蔡妍",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 22,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "b588b102-ae12-410c-88d8-0a6572a9e517",
+        "text": "朱沛礼",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 23,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZPL",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "f746c3e2-c647-449a-91c7-0f73818a1095",
+        "text": "麦杰锋",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 24,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "MJF",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "c4c161a9-6fcb-41db-92fd-b15616e498fa",
+        "text": "何乐丰",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 25,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HLF",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "145caf65-cc98-41ee-b7c3-515360c53cb2",
+        "text": "吴金维",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 26,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WJW",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "48de9ed1-421f-4f0b-b025-cd05ae9ffec0",
+        "text": "杨艳",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 27,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "YY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "53e364a9-6500-49e0-8307-3d87ddb3040e",
+        "text": "李殷",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 28,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "9b0dd4b6-b79b-4d60-b4fb-006cb225d14c",
+        "text": "刘丽红",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 29,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LLH",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "b8eebf0a-9348-4cc2-ad76-a40b60afd968",
+        "text": "陈倩",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 32,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CQ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "8e414d9c-565b-4526-82c1-12f9d95665ba",
+        "text": "熊婧妮",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 33,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "XJN",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "7fa0d6f3-5ea0-4306-9a79-87a76f5d928e",
+        "text": "邓建红",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 34,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "DJH",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "f2d22cbd-02a9-4b01-966a-05a6dafbdfc1",
+        "text": "邱基晃",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 35,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "QJH",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "763df923-5dcc-452a-bff6-e05e586536c9",
+        "text": "丘志芳",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 36,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "QZF",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "3a2ca8ca-2c2f-45f7-84f6-bd0fe214fdd9",
+        "text": "蓝永清",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 37,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LYQ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "a95849c4-c03a-49a7-9f72-a26b0aa9437b",
+        "text": "李籽韬",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 38,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LZT",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "1ef35265-019a-4f7c-a712-b98caf7b33d6",
+        "text": "刘露斯",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 39,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LLS",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "ddf29893-e292-4d54-aba5-e2c8527d1a06",
+        "text": "张桂瑒",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 40,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZGY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "7ad836f2-c2d0-477f-99e7-56ddc50076e3",
+        "text": "刘永昌",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 41,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LYC",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "0ed23f8b-c65b-419a-8705-a435aacd8d1a",
+        "text": "何暖华",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 42,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HNH",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "75dd94fc-c111-43a5-bcf6-38646664be0d",
+        "text": "邓小琼",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 43,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "DXQ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "c46d92ab-bb4f-4de0-be2b-573fc2bd6ebf",
+        "text": "蔡少芳",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 44,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CSF",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "665fe4ba-f232-48e4-b0c5-2c08c07154fb",
+        "text": "谭贞洁",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 45,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TZJ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "679b31e6-7404-40dd-aeab-d386bcd6301f",
+        "text": "温健宇",
+        "iconCls": "icon-man",
+        "parentId": "86c92b89-31b4-47e3-8d77-942b94cdc881",
+        "sort": 46,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WJY",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "f951999c-c575-407a-9e75-33a9113bb817",
+    "text": "政策法规科",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 3,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "ZCFGK",
+      "status": 1
+    },
+    "children": [{
+      "id": "bde175bf-a4f2-4c7d-900b-0c893469d9c4",
+      "text": "法规科分管领导",
+      "iconCls": "icon-post",
+      "parentId": "f951999c-c575-407a-9e75-33a9113bb817",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FGKFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "8be3a512-9c0e-49db-bf42-0b4eb142f3ae",
+        "text": "麦卫忠",
+        "iconCls": "icon-man",
+        "parentId": "bde175bf-a4f2-4c7d-900b-0c893469d9c4",
+        "sort": 6,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "MWZ",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "0a99bed2-4a97-4bd1-807c-432bbc7d435e",
+      "text": "科长",
+      "iconCls": "icon-post",
+      "parentId": "f951999c-c575-407a-9e75-33a9113bb817",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "10c0521e-44f6-4615-a256-32f54e810003",
+        "text": "朱学森",
+        "iconCls": "icon-man",
+        "parentId": "0a99bed2-4a97-4bd1-807c-432bbc7d435e",
+        "sort": 47,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZXS",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "73f36e7a-7b7e-4f3d-94d8-107557989d2d",
+      "text": "副科长",
+      "iconCls": "icon-post",
+      "parentId": "f951999c-c575-407a-9e75-33a9113bb817",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FKZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "04ffe79f-8010-42fc-99c8-86937cc17188",
+        "text": "欧智勇",
+        "iconCls": "icon-man",
+        "parentId": "73f36e7a-7b7e-4f3d-94d8-107557989d2d",
+        "sort": 48,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "OZY",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "fd2e1f74-a463-4c18-a7bc-d271ae198f29",
+      "text": "科员",
+      "iconCls": "icon-post",
+      "parentId": "f951999c-c575-407a-9e75-33a9113bb817",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KY",
+        "status": 1
+      },
+      "children": [{
+        "id": "e677cf37-1ff8-492e-9b7f-96a7dfe40265",
+        "text": "丁兆峰",
+        "iconCls": "icon-man",
+        "parentId": "fd2e1f74-a463-4c18-a7bc-d271ae198f29",
+        "sort": 49,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "DZF",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "a63eddb3-1df4-42dd-80aa-786455f397c9",
+        "text": "肖宝倩",
+        "iconCls": "icon-man",
+        "parentId": "fd2e1f74-a463-4c18-a7bc-d271ae198f29",
+        "sort": 50,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "XBQ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "9e0e53ee-3c56-4300-8903-d1e0e8c835d2",
+        "text": "辛琦",
+        "iconCls": "icon-man",
+        "parentId": "fd2e1f74-a463-4c18-a7bc-d271ae198f29",
+        "sort": 51,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "XQ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "51add909-464c-4c6d-b20c-c64b4a8943da",
+        "text": "朱伟帆",
+        "iconCls": "icon-man",
+        "parentId": "fd2e1f74-a463-4c18-a7bc-d271ae198f29",
+        "sort": 52,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZWF",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "24494daa-9d96-4ee8-95d4-8ec8b2cb4981",
+        "text": "谢少平",
+        "iconCls": "icon-man",
+        "parentId": "fd2e1f74-a463-4c18-a7bc-d271ae198f29",
+        "sort": 53,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "XSP",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "c5f6e38a-358f-4074-9790-978da589d6df",
+        "text": "张世乐",
+        "iconCls": "icon-man",
+        "parentId": "fd2e1f74-a463-4c18-a7bc-d271ae198f29",
+        "sort": 54,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZSL",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "012dafc5-93cc-45bd-a37b-1ff2cae8fe78",
+        "text": "邝顺雄",
+        "iconCls": "icon-man",
+        "parentId": "fd2e1f74-a463-4c18-a7bc-d271ae198f29",
+        "sort": 55,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "KSX",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "b45817fe-4ee8-40f2-b7e4-ff5165bf6197",
+    "text": "行政审批科",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 4,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "XZSPK",
+      "status": 1
+    },
+    "children": [{
+      "id": "7cc86508-f9b6-4b71-9bf7-70c743f21ba1",
+      "text": "政审科分管领导",
+      "iconCls": "icon-post",
+      "parentId": "b45817fe-4ee8-40f2-b7e4-ff5165bf6197",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "ZSKFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "48fe2285-86ce-4941-a90f-3ca470b00812",
+        "text": "钟华山",
+        "iconCls": "icon-man",
+        "parentId": "7cc86508-f9b6-4b71-9bf7-70c743f21ba1",
+        "sort": 5,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZHS",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "13e002f3-8867-4ab1-af69-33789b11d6b2",
+      "text": "科长",
+      "iconCls": "icon-post",
+      "parentId": "b45817fe-4ee8-40f2-b7e4-ff5165bf6197",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "9d643504-0567-403a-b9b5-c40f3b7cd669",
+        "text": "刘小韫",
+        "iconCls": "icon-man",
+        "parentId": "13e002f3-8867-4ab1-af69-33789b11d6b2",
+        "sort": 56,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LXY",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "3b30f4b8-f287-4594-b5ad-146d8392ad32",
+      "text": "副科长",
+      "iconCls": "icon-post",
+      "parentId": "b45817fe-4ee8-40f2-b7e4-ff5165bf6197",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FKZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "e570ee38-6043-4cb6-bc01-88eb14beabf8",
+        "text": "黄敏华",
+        "iconCls": "icon-man",
+        "parentId": "3b30f4b8-f287-4594-b5ad-146d8392ad32",
+        "sort": 57,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HMH",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "a0c5d2b2-84a3-4e8f-bbfe-decd0b28da47",
+        "text": "张少伟",
+        "iconCls": "icon-man",
+        "parentId": "3b30f4b8-f287-4594-b5ad-146d8392ad32",
+        "sort": 58,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZSW",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "f95b5af8-5b12-458a-8d31-94ca320bedb5",
+      "text": "科员",
+      "iconCls": "icon-post",
+      "parentId": "b45817fe-4ee8-40f2-b7e4-ff5165bf6197",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KY",
+        "status": 1
+      },
+      "children": [{
+        "id": "dbd34a10-567c-41b3-9708-27a272f2722f",
+        "text": "吕俊贤",
+        "iconCls": "icon-man",
+        "parentId": "f95b5af8-5b12-458a-8d31-94ca320bedb5",
+        "sort": 59,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LJX",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "ebf9d5af-578f-45fa-8953-7a8bb08783eb",
+        "text": "胡睿",
+        "iconCls": "icon-man",
+        "parentId": "f95b5af8-5b12-458a-8d31-94ca320bedb5",
+        "sort": 60,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HR",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "c8f07bb3-2966-4bb4-81cc-9bd74bcb3be0",
+        "text": "董慧",
+        "iconCls": "icon-man",
+        "parentId": "f95b5af8-5b12-458a-8d31-94ca320bedb5",
+        "sort": 61,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "DH",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "ce0bfc9e-33db-429b-9239-fe602e976385",
+        "text": "王奖庆",
+        "iconCls": "icon-man",
+        "parentId": "f95b5af8-5b12-458a-8d31-94ca320bedb5",
+        "sort": 62,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WJQ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "49fd5f9b-9e3d-47db-ab82-a70b3ee7bcf6",
+        "text": "梁敏迪",
+        "iconCls": "icon-man",
+        "parentId": "f95b5af8-5b12-458a-8d31-94ca320bedb5",
+        "sort": 63,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LMD",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "052b427d-6d79-4df6-bcb4-34d7f71d2608",
+        "text": "陈文龙",
+        "iconCls": "icon-man",
+        "parentId": "f95b5af8-5b12-458a-8d31-94ca320bedb5",
+        "sort": 64,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CWL",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "52417801-10ed-48a8-a747-ea6168031534",
+        "text": "冯国鹏",
+        "iconCls": "icon-man",
+        "parentId": "f95b5af8-5b12-458a-8d31-94ca320bedb5",
+        "sort": 65,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "FGP",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "56d0f981-ecc3-4b53-bec7-dbc87d0af73a",
+        "text": "徐国志",
+        "iconCls": "icon-man",
+        "parentId": "f95b5af8-5b12-458a-8d31-94ca320bedb5",
+        "sort": 66,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "XGZ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "32656380-df9b-4b4f-b6ee-a995e5c5a1c4",
+        "text": "陈洁仪",
+        "iconCls": "icon-man",
+        "parentId": "f95b5af8-5b12-458a-8d31-94ca320bedb5",
+        "sort": 67,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CJY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "2588d7b4-ebda-4464-bf62-340095ec2a32",
+        "text": "黄烈毅",
+        "iconCls": "icon-man",
+        "parentId": "f95b5af8-5b12-458a-8d31-94ca320bedb5",
+        "sort": 68,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HLY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "1f3a4118-e153-41b8-a7fb-4464e1484fb1",
+        "text": "李志军",
+        "iconCls": "icon-man",
+        "parentId": "f95b5af8-5b12-458a-8d31-94ca320bedb5",
+        "sort": 69,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LZJ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "d4eec7e6-08c9-41de-921f-f883a0aaf5a4",
+        "text": "陆远芳",
+        "iconCls": "icon-man",
+        "parentId": "f95b5af8-5b12-458a-8d31-94ca320bedb5",
+        "sort": 70,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LYF",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "da794a5a-7346-4555-8fa8-ba0d5cce2aba",
+        "text": "韦丽斯",
+        "iconCls": "icon-man",
+        "parentId": "f95b5af8-5b12-458a-8d31-94ca320bedb5",
+        "sort": 71,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WLS",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "886ddc2d-a457-485a-9845-9a55870ff946",
+        "text": "黄日美",
+        "iconCls": "icon-man",
+        "parentId": "f95b5af8-5b12-458a-8d31-94ca320bedb5",
+        "sort": 72,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HRM",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "61446457-6a4f-4302-bd1c-9956d675368f",
+        "text": "刘欣怡",
+        "iconCls": "icon-man",
+        "parentId": "f95b5af8-5b12-458a-8d31-94ca320bedb5",
+        "sort": 73,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LXY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "c621cdca-c20d-4444-b2ef-4b64ee34cfce",
+        "text": "李僡芳",
+        "iconCls": "icon-man",
+        "parentId": "f95b5af8-5b12-458a-8d31-94ca320bedb5",
+        "sort": 74,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LHF",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "628b42e4-535f-44b5-9c2a-f42d073332ea",
+        "text": "张如彤",
+        "iconCls": "icon-man",
+        "parentId": "f95b5af8-5b12-458a-8d31-94ca320bedb5",
+        "sort": 75,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZRT",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "d05e078d-100b-4edb-8b31-fe456973fd7b",
+        "text": "梁日贵",
+        "iconCls": "icon-man",
+        "parentId": "f95b5af8-5b12-458a-8d31-94ca320bedb5",
+        "sort": 76,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LRG",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "aad54a55-9309-4b40-a3be-b1a164c5f487",
+        "text": "欧倩仪",
+        "iconCls": "icon-man",
+        "parentId": "f95b5af8-5b12-458a-8d31-94ca320bedb5",
+        "sort": 77,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "OQY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "5d90b42e-6bea-49c8-a073-93c89e669e76",
+        "text": "谢焕容",
+        "iconCls": "icon-man",
+        "parentId": "f95b5af8-5b12-458a-8d31-94ca320bedb5",
+        "sort": 78,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "XHR",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "0a5c7459-4ce0-44ac-a8ed-43c42eeaaa3d",
+        "text": "黄梅君",
+        "iconCls": "icon-man",
+        "parentId": "f95b5af8-5b12-458a-8d31-94ca320bedb5",
+        "sort": 79,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HMJ",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "e50f457b-856c-4002-96c5-e9df1408bb32",
+    "text": "自然资源调查确权登记科",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 5,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "ZRZYDCQQDJK",
+      "status": 1
+    },
+    "children": [{
+      "id": "a4cbb018-1059-4c0c-800b-d3a3b9fe4417",
+      "text": "确权登记科分管领导",
+      "iconCls": "icon-post",
+      "parentId": "e50f457b-856c-4002-96c5-e9df1408bb32",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "QQDJKFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "1b270426-cda6-430a-9180-14546a3f6291",
+        "text": "古长森",
+        "iconCls": "icon-man",
+        "parentId": "a4cbb018-1059-4c0c-800b-d3a3b9fe4417",
+        "sort": 7,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "GZS",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "32ba9e60-e27c-4a16-ab31-62886b880721",
+      "text": "科长",
+      "iconCls": "icon-post",
+      "parentId": "e50f457b-856c-4002-96c5-e9df1408bb32",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "3d21a618-5445-4271-bf22-6eacf5eac205",
+        "text": "张焕祺",
+        "iconCls": "icon-man",
+        "parentId": "32ba9e60-e27c-4a16-ab31-62886b880721",
+        "sort": 80,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZHQ",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "1298746c-b3fa-4590-9f10-316ba5ebc740",
+      "text": "副科长",
+      "iconCls": "icon-post",
+      "parentId": "e50f457b-856c-4002-96c5-e9df1408bb32",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FKZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "f973f405-b901-402f-9672-18b9a870ec9b",
+        "text": "曾灿辉",
+        "iconCls": "icon-man",
+        "parentId": "1298746c-b3fa-4590-9f10-316ba5ebc740",
+        "sort": 81,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CCH",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "eb78ab87-904a-43e5-979a-fb21ad6a7779",
+      "text": "科员",
+      "iconCls": "icon-post",
+      "parentId": "e50f457b-856c-4002-96c5-e9df1408bb32",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KY",
+        "status": 1
+      },
+      "children": [{
+        "id": "ddf4907f-59d5-4c61-965a-4b1c4a40eb8c",
+        "text": "刘京国",
+        "iconCls": "icon-man",
+        "parentId": "eb78ab87-904a-43e5-979a-fb21ad6a7779",
+        "sort": 82,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LJG",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "14cf0ec1-bac9-404b-8522-00f685112826",
+        "text": "李照",
+        "iconCls": "icon-man",
+        "parentId": "eb78ab87-904a-43e5-979a-fb21ad6a7779",
+        "sort": 83,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LZ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "cfa87879-8791-4016-8cc3-2c6e40030c22",
+        "text": "刘彤",
+        "iconCls": "icon-man",
+        "parentId": "eb78ab87-904a-43e5-979a-fb21ad6a7779",
+        "sort": 84,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LT",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "d2be2a1b-d54c-494d-bec3-62139cafc971",
+    "text": "自然资源开发利用科",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 6,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "ZRZYKFLYK",
+      "status": 1
+    },
+    "children": [{
+      "id": "3fffd79a-9c95-4cfd-bf3d-ff714b23756a",
+      "text": "开发利用科分管领导",
+      "iconCls": "icon-post",
+      "parentId": "d2be2a1b-d54c-494d-bec3-62139cafc971",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KFLYKFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "b4c6d488-5147-4f9f-94d6-99ede2619297",
+        "text": "林英营",
+        "iconCls": "icon-man",
+        "parentId": "3fffd79a-9c95-4cfd-bf3d-ff714b23756a",
+        "sort": 2,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LYY",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "b29b274b-8014-40ac-b599-7107d0d6fc56",
+      "text": "开发利用科协管领导",
+      "iconCls": "icon-post",
+      "parentId": "d2be2a1b-d54c-494d-bec3-62139cafc971",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KFLYKXGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "00e50715-0543-43e0-a6fe-62a43ce00312",
+        "text": "赖付标",
+        "iconCls": "icon-man",
+        "parentId": "b29b274b-8014-40ac-b599-7107d0d6fc56",
+        "sort": 10,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LFB",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "5d44b0e4-1d92-467c-a128-ca7e83803bb2",
+      "text": "科长",
+      "iconCls": "icon-post",
+      "parentId": "d2be2a1b-d54c-494d-bec3-62139cafc971",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "9547f855-c2cf-436b-87ae-17bce98466cc",
+        "text": "周敏",
+        "iconCls": "icon-man",
+        "parentId": "5d44b0e4-1d92-467c-a128-ca7e83803bb2",
+        "sort": 85,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZM",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "0b0e05ec-ae54-4a7f-9c41-422efe0eaa35",
+      "text": "副科长",
+      "iconCls": "icon-post",
+      "parentId": "d2be2a1b-d54c-494d-bec3-62139cafc971",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FKZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "e6a38191-6c1c-4fa7-8166-78b4a1b9d29c",
+        "text": "冯路养",
+        "iconCls": "icon-man",
+        "parentId": "0b0e05ec-ae54-4a7f-9c41-422efe0eaa35",
+        "sort": 86,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "FLY",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "435e10a4-191c-43f3-8115-f08abffcb93f",
+      "text": "主任科员",
+      "iconCls": "icon-post",
+      "parentId": "d2be2a1b-d54c-494d-bec3-62139cafc971",
+      "sort": 4,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "ZRKY",
+        "status": 1
+      },
+      "children": [{
+        "id": "50bda1bc-0c99-4a9e-a96c-10c1f4de8984",
+        "text": "邓承建",
+        "iconCls": "icon-man",
+        "parentId": "435e10a4-191c-43f3-8115-f08abffcb93f",
+        "sort": 87,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "DCJ",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "c6016fb2-c4c1-4a80-b6fa-62ff226bbb5f",
+      "text": "副主任科员",
+      "iconCls": "icon-post",
+      "parentId": "d2be2a1b-d54c-494d-bec3-62139cafc971",
+      "sort": 5,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FZRKY",
+        "status": 1
+      },
+      "children": [{
+        "id": "afe5e67e-6eb4-4538-a56e-875eb98ab0a8",
+        "text": "张家勇",
+        "iconCls": "icon-man",
+        "parentId": "c6016fb2-c4c1-4a80-b6fa-62ff226bbb5f",
+        "sort": 88,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZJY",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "0d575ee9-863f-4a56-82e1-695cfba12140",
+      "text": "科员",
+      "iconCls": "icon-post",
+      "parentId": "d2be2a1b-d54c-494d-bec3-62139cafc971",
+      "sort": 6,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KY",
+        "status": 1
+      },
+      "children": [{
+        "id": "2f464327-c1af-4ee4-90e1-03a0684a8cad",
+        "text": "欧阳莉娟",
+        "iconCls": "icon-man",
+        "parentId": "0d575ee9-863f-4a56-82e1-695cfba12140",
+        "sort": 89,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "OYLJ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "94207071-a744-4055-8f52-b9b5d9ebc625",
+        "text": "李阅",
+        "iconCls": "icon-man",
+        "parentId": "0d575ee9-863f-4a56-82e1-695cfba12140",
+        "sort": 90,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "e8e733a7-cfc5-48df-8cd7-3881ed865c30",
+        "text": "阮国聪",
+        "iconCls": "icon-man",
+        "parentId": "0d575ee9-863f-4a56-82e1-695cfba12140",
+        "sort": 91,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "RGC",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "4d7351d9-c199-403b-8bfd-aa93730becc3",
+        "text": "罗紫晴",
+        "iconCls": "icon-man",
+        "parentId": "0d575ee9-863f-4a56-82e1-695cfba12140",
+        "sort": 92,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LZQ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "5678b9fd-7f13-4786-80dc-4a6538442070",
+        "text": "周先兰",
+        "iconCls": "icon-man",
+        "parentId": "0d575ee9-863f-4a56-82e1-695cfba12140",
+        "sort": 93,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZXL",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "4808d805-0477-4685-a388-bb5777015286",
+        "text": "肖海谷",
+        "iconCls": "icon-man",
+        "parentId": "0d575ee9-863f-4a56-82e1-695cfba12140",
+        "sort": 94,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "XHG",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "38374d28-2fb6-43d1-b778-64c06e3c81b4",
+        "text": "黄劲伟",
+        "iconCls": "icon-man",
+        "parentId": "0d575ee9-863f-4a56-82e1-695cfba12140",
+        "sort": 95,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HJW",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "fc873150-7d88-485a-aaa3-e88857fc2f24",
+        "text": "蒋展鹏",
+        "iconCls": "icon-man",
+        "parentId": "0d575ee9-863f-4a56-82e1-695cfba12140",
+        "sort": 96,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "JZP",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "369738ce-2aec-4252-a20a-873caf476240",
+        "text": "阮伟丝",
+        "iconCls": "icon-man",
+        "parentId": "0d575ee9-863f-4a56-82e1-695cfba12140",
+        "sort": 97,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "RWS",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "09fcd8a3-6c8b-4e3c-be66-6add5fe2f537",
+        "text": "潘楚贤",
+        "iconCls": "icon-man",
+        "parentId": "0d575ee9-863f-4a56-82e1-695cfba12140",
+        "sort": 98,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "PCX",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "c881b1a5-1370-4f1a-9da8-751af24dc159",
+        "text": "冯国浩",
+        "iconCls": "icon-man",
+        "parentId": "0d575ee9-863f-4a56-82e1-695cfba12140",
+        "sort": 99,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "FGH",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "18fb89c1-da2f-439d-86e8-eb7cfb76ce7d",
+        "text": "黄映彤",
+        "iconCls": "icon-man",
+        "parentId": "0d575ee9-863f-4a56-82e1-695cfba12140",
+        "sort": 100,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HYT",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "0fe02f42-fe02-466d-8cd6-09932786c57b",
+        "text": "汤文勇",
+        "iconCls": "icon-man",
+        "parentId": "0d575ee9-863f-4a56-82e1-695cfba12140",
+        "sort": 101,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TWY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "268d0ef4-f92a-4686-8160-0823cab8e006",
+        "text": "谭锐权",
+        "iconCls": "icon-man",
+        "parentId": "0d575ee9-863f-4a56-82e1-695cfba12140",
+        "sort": 102,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TRQ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "12c819e9-9030-44a7-a895-625a42176de4",
+        "text": "温泳欣",
+        "iconCls": "icon-man",
+        "parentId": "0d575ee9-863f-4a56-82e1-695cfba12140",
+        "sort": 103,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WYX",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "059e7e1d-42f3-4284-9f40-bae656406b8b",
+        "text": "李家乐",
+        "iconCls": "icon-man",
+        "parentId": "0d575ee9-863f-4a56-82e1-695cfba12140",
+        "sort": 104,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LJL",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "e4d9c9b3-0bc3-4de2-9b2c-40e25497044f",
+        "text": "张韬",
+        "iconCls": "icon-man",
+        "parentId": "0d575ee9-863f-4a56-82e1-695cfba12140",
+        "sort": 105,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZT",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "1f433641-9e07-440f-b590-5c16ec3bfdeb",
+        "text": "吴建南",
+        "iconCls": "icon-man",
+        "parentId": "0d575ee9-863f-4a56-82e1-695cfba12140",
+        "sort": 106,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WJN",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "cfac089b-1ab8-41fc-a3ef-df69ef78ce93",
+        "text": "梁晓强",
+        "iconCls": "icon-man",
+        "parentId": "0d575ee9-863f-4a56-82e1-695cfba12140",
+        "sort": 107,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LXQ",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "e7c18ac0-1268-46b6-9af2-0dc1b2533a3a",
+    "text": "国土空间规划科",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 7,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "GTKJGHK",
+      "status": 1
+    },
+    "children": [{
+      "id": "01aba263-b104-45d6-9282-c426b2092e54",
+      "text": "国规科分管领导",
+      "iconCls": "icon-post",
+      "parentId": "e7c18ac0-1268-46b6-9af2-0dc1b2533a3a",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "GGKFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "48fe2285-86ce-4941-a90f-3ca470b00812",
+        "text": "钟华山",
+        "iconCls": "icon-man",
+        "parentId": "01aba263-b104-45d6-9282-c426b2092e54",
+        "sort": 5,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZHS",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "32ff3855-9027-410a-b12d-8055d10167fa",
+      "text": "科长",
+      "iconCls": "icon-post",
+      "parentId": "e7c18ac0-1268-46b6-9af2-0dc1b2533a3a",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "de37b3d3-10bf-4616-a5bb-80fdab9ec535",
+        "text": "张召兵",
+        "iconCls": "icon-man",
+        "parentId": "32ff3855-9027-410a-b12d-8055d10167fa",
+        "sort": 108,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZZB",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "42758962-c87f-47a9-bce3-d7b4a3d140d5",
+      "text": "副科长",
+      "iconCls": "icon-post",
+      "parentId": "e7c18ac0-1268-46b6-9af2-0dc1b2533a3a",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FKZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "83db1369-b803-4b63-b98e-5777a01dc403",
+        "text": "向安源",
+        "iconCls": "icon-man",
+        "parentId": "42758962-c87f-47a9-bce3-d7b4a3d140d5",
+        "sort": 109,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "XAY",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "022620c0-07b5-4117-b3b0-9a6a178e36b9",
+      "text": "科员",
+      "iconCls": "icon-post",
+      "parentId": "e7c18ac0-1268-46b6-9af2-0dc1b2533a3a",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KY",
+        "status": 1
+      },
+      "children": [{
+        "id": "2a2c3a72-69ee-44a6-8919-69b97545aac3",
+        "text": "张国坚",
+        "iconCls": "icon-man",
+        "parentId": "022620c0-07b5-4117-b3b0-9a6a178e36b9",
+        "sort": 110,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZGJ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "5868ada2-2fda-4dc3-9b12-fc8dd07e1a39",
+        "text": "张文磊",
+        "iconCls": "icon-man",
+        "parentId": "022620c0-07b5-4117-b3b0-9a6a178e36b9",
+        "sort": 111,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZWL",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "d8558947-5b1c-4dd9-ad34-dd62fba1eec9",
+        "text": "王超郢",
+        "iconCls": "icon-man",
+        "parentId": "022620c0-07b5-4117-b3b0-9a6a178e36b9",
+        "sort": 112,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WCY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "26ffaa96-86a7-44be-a778-2b8d01d573f2",
+        "text": "黄优",
+        "iconCls": "icon-man",
+        "parentId": "022620c0-07b5-4117-b3b0-9a6a178e36b9",
+        "sort": 113,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "63e7e1cc-a1b8-41c7-b5e6-be768429ab54",
+        "text": "欧玄竹",
+        "iconCls": "icon-man",
+        "parentId": "022620c0-07b5-4117-b3b0-9a6a178e36b9",
+        "sort": 114,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "OXZ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "d8cf5254-8e56-4a10-98ea-cb21fe16a810",
+        "text": "罗成耀",
+        "iconCls": "icon-man",
+        "parentId": "022620c0-07b5-4117-b3b0-9a6a178e36b9",
+        "sort": 115,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LCY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "4594d8b9-0813-4e01-986b-36e927fe323f",
+        "text": "汪书锋",
+        "iconCls": "icon-man",
+        "parentId": "022620c0-07b5-4117-b3b0-9a6a178e36b9",
+        "sort": 116,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WSF",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "b3ae6ec5-f0c2-4862-955e-d4e2c27546de",
+    "text": "国土空间用途管制科",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 8,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "GTKJYTGZK",
+      "status": 1
+    },
+    "children": [{
+      "id": "6b706f6c-b608-4796-865e-8edd459857a8",
+      "text": "用途管制科分管领导",
+      "iconCls": "icon-post",
+      "parentId": "b3ae6ec5-f0c2-4862-955e-d4e2c27546de",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "YTGZKFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "b4c6d488-5147-4f9f-94d6-99ede2619297",
+        "text": "林英营",
+        "iconCls": "icon-man",
+        "parentId": "6b706f6c-b608-4796-865e-8edd459857a8",
+        "sort": 2,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LYY",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "ca484fbb-c7fd-43a3-aabe-0b73310c569a",
+      "text": "用途管制科协管领导",
+      "iconCls": "icon-post",
+      "parentId": "b3ae6ec5-f0c2-4862-955e-d4e2c27546de",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "YTGZKXGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "00e50715-0543-43e0-a6fe-62a43ce00312",
+        "text": "赖付标",
+        "iconCls": "icon-man",
+        "parentId": "ca484fbb-c7fd-43a3-aabe-0b73310c569a",
+        "sort": 10,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LFB",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "db43c9f3-5277-4704-bb51-532160bbc237",
+      "text": "科长",
+      "iconCls": "icon-post",
+      "parentId": "b3ae6ec5-f0c2-4862-955e-d4e2c27546de",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "06c4d9ea-1be2-46a1-8267-5b6c855e3ac8",
+        "text": "钟雅莉",
+        "iconCls": "icon-man",
+        "parentId": "db43c9f3-5277-4704-bb51-532160bbc237",
+        "sort": 117,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZYL",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "98fafa9f-303c-4a51-9767-0b752bba40f2",
+      "text": "副科长",
+      "iconCls": "icon-post",
+      "parentId": "b3ae6ec5-f0c2-4862-955e-d4e2c27546de",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FKZ",
+        "status": 1
+      },
+      "children": []
+    }, {
+      "id": "410e5b0c-6bd6-44a5-8f49-3d1cc57a6f8e",
+      "text": "科员",
+      "iconCls": "icon-post",
+      "parentId": "b3ae6ec5-f0c2-4862-955e-d4e2c27546de",
+      "sort": 4,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KY",
+        "status": 1
+      },
+      "children": [{
+        "id": "f2c8e468-e19e-416d-9b96-7b44998ea260",
+        "text": "涂学智",
+        "iconCls": "icon-man",
+        "parentId": "410e5b0c-6bd6-44a5-8f49-3d1cc57a6f8e",
+        "sort": 118,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TXZ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "3d80a6d6-0246-45f3-905a-24ada7320f68",
+        "text": "黄欣",
+        "iconCls": "icon-man",
+        "parentId": "410e5b0c-6bd6-44a5-8f49-3d1cc57a6f8e",
+        "sort": 119,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HX",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "a0ce3b42-ddcb-45d2-9468-d9fbe3477ed3",
+        "text": "张畅",
+        "iconCls": "icon-man",
+        "parentId": "410e5b0c-6bd6-44a5-8f49-3d1cc57a6f8e",
+        "sort": 120,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZC",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "9a224d06-022a-43fc-8a64-ba7029dc783a",
+        "text": "高艺伦",
+        "iconCls": "icon-man",
+        "parentId": "410e5b0c-6bd6-44a5-8f49-3d1cc57a6f8e",
+        "sort": 121,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "GYL",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "202b8806-eff3-430b-a95b-4686efa65082",
+        "text": "梁家怡",
+        "iconCls": "icon-man",
+        "parentId": "410e5b0c-6bd6-44a5-8f49-3d1cc57a6f8e",
+        "sort": 122,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LJY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "00da0aa3-a7a5-4229-90b4-933ca095a02a",
+        "text": "邓凌云",
+        "iconCls": "icon-man",
+        "parentId": "410e5b0c-6bd6-44a5-8f49-3d1cc57a6f8e",
+        "sort": 123,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "DLY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "13429074-b9e4-4956-a8fb-4627f8c65027",
+        "text": "彭俊宇",
+        "iconCls": "icon-man",
+        "parentId": "410e5b0c-6bd6-44a5-8f49-3d1cc57a6f8e",
+        "sort": 124,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "PJY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "69b05a85-2033-4e62-a881-9b529e69042a",
+        "text": "成杰",
+        "iconCls": "icon-man",
+        "parentId": "410e5b0c-6bd6-44a5-8f49-3d1cc57a6f8e",
+        "sort": 125,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CJ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "5837bd9e-222d-4665-95d6-4f5d300ef37a",
+        "text": "李小光",
+        "iconCls": "icon-man",
+        "parentId": "410e5b0c-6bd6-44a5-8f49-3d1cc57a6f8e",
+        "sort": 126,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LXG",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "b180f35e-d2f5-47f4-bec1-191cc04a0faa",
+        "text": "黄显君",
+        "iconCls": "icon-man",
+        "parentId": "410e5b0c-6bd6-44a5-8f49-3d1cc57a6f8e",
+        "sort": 127,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HXJ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "eee256b4-1ffd-4e5b-881e-a0e753a06005",
+        "text": "姚迪",
+        "iconCls": "icon-man",
+        "parentId": "410e5b0c-6bd6-44a5-8f49-3d1cc57a6f8e",
+        "sort": 128,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "YD",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "c6b560a0-e21c-481b-b6d7-0e3ab0a1a7d2",
+        "text": "罗晶琳",
+        "iconCls": "icon-man",
+        "parentId": "410e5b0c-6bd6-44a5-8f49-3d1cc57a6f8e",
+        "sort": 129,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LJL",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "0bb3af30-46a3-43fd-addf-4eb3fd21bc60",
+    "text": "耕地保护和国土空间生态修复科",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 9,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "GDBHHGTKJSTXFK",
+      "status": 1
+    },
+    "children": [{
+      "id": "58d5df84-4508-4f79-b31d-953d8456a34f",
+      "text": "耕保生态修复科分管领导",
+      "iconCls": "icon-post",
+      "parentId": "0bb3af30-46a3-43fd-addf-4eb3fd21bc60",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "GBSTXFKFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "6cfdbf1c-6a68-4972-8a11-d0d7cc54bd7b",
+        "text": "童立定",
+        "iconCls": "icon-man",
+        "parentId": "58d5df84-4508-4f79-b31d-953d8456a34f",
+        "sort": 4,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TLD",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "4f9d0961-fc76-48bd-818c-f5999cfea156",
+      "text": "科长",
+      "iconCls": "icon-post",
+      "parentId": "0bb3af30-46a3-43fd-addf-4eb3fd21bc60",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "bcf3ba82-2f03-48bc-8244-253412aa0258",
+        "text": "黄庆生",
+        "iconCls": "icon-man",
+        "parentId": "4f9d0961-fc76-48bd-818c-f5999cfea156",
+        "sort": 130,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HQS",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "612b8b77-446f-4325-983f-90ee2241716a",
+      "text": "副科长",
+      "iconCls": "icon-post",
+      "parentId": "0bb3af30-46a3-43fd-addf-4eb3fd21bc60",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FKZ",
+        "status": 1
+      },
+      "children": []
+    }, {
+      "id": "e2ac8e2e-453a-4c0f-af35-f7af369228e2",
+      "text": "科员",
+      "iconCls": "icon-post",
+      "parentId": "0bb3af30-46a3-43fd-addf-4eb3fd21bc60",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KY",
+        "status": 1
+      },
+      "children": [{
+        "id": "f78304b5-16c4-4f3f-a7a7-a926ca85ef8c",
+        "text": "朱启东",
+        "iconCls": "icon-man",
+        "parentId": "e2ac8e2e-453a-4c0f-af35-f7af369228e2",
+        "sort": 131,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZQD",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "12d7e831-d3dc-4f6c-83ce-a8ca04c233d8",
+        "text": "谭绮绮",
+        "iconCls": "icon-man",
+        "parentId": "e2ac8e2e-453a-4c0f-af35-f7af369228e2",
+        "sort": 132,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TQQ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "672ef21f-dd57-4f57-bb29-5c37660d164c",
+        "text": "朱嘉仪",
+        "iconCls": "icon-man",
+        "parentId": "e2ac8e2e-453a-4c0f-af35-f7af369228e2",
+        "sort": 133,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZJY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "2f01dc5b-55ff-498b-b585-deeb776f46af",
+        "text": "杨德庆",
+        "iconCls": "icon-man",
+        "parentId": "e2ac8e2e-453a-4c0f-af35-f7af369228e2",
+        "sort": 134,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "YDQ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "0fa01248-07c1-437c-a8c2-59d724700d3b",
+        "text": "王嘉懿",
+        "iconCls": "icon-man",
+        "parentId": "e2ac8e2e-453a-4c0f-af35-f7af369228e2",
+        "sort": 135,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WJY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "eaa9cd03-5fab-4116-9aa5-d0c5c227a4be",
+        "text": "朱嘉杰",
+        "iconCls": "icon-man",
+        "parentId": "e2ac8e2e-453a-4c0f-af35-f7af369228e2",
+        "sort": 136,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZJJ",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "55366047-2de1-4ed9-abf7-41b52381e152",
+    "text": "地质勘查和地质灾害防治科",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 10,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "DZKCHDZZHFZK",
+      "status": 1
+    },
+    "children": [{
+      "id": "ab175a91-30d3-4abc-bc37-c8f0d81f8783",
+      "text": "地质科分管领导",
+      "iconCls": "icon-post",
+      "parentId": "55366047-2de1-4ed9-abf7-41b52381e152",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "DZKFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "c9d9bf7e-a35f-4bab-b83c-f5928d3a9cdf",
+        "text": "黄卫",
+        "iconCls": "icon-man",
+        "parentId": "ab175a91-30d3-4abc-bc37-c8f0d81f8783",
+        "sort": 3,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HW",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "f6671e31-a15a-47f7-be5a-8e87f2c15b66",
+      "text": "科长",
+      "iconCls": "icon-post",
+      "parentId": "55366047-2de1-4ed9-abf7-41b52381e152",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "845de891-a8ce-4336-aac3-3e386adeb68f",
+        "text": "陈彩娟",
+        "iconCls": "icon-man",
+        "parentId": "f6671e31-a15a-47f7-be5a-8e87f2c15b66",
+        "sort": 137,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CCJ",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "836a76e9-9361-4126-9670-11e1b860c4e6",
+      "text": "副科长",
+      "iconCls": "icon-post",
+      "parentId": "55366047-2de1-4ed9-abf7-41b52381e152",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FKZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "52cfeb22-6074-4de9-a70c-ef2d0f683b48",
+        "text": "杜江涛",
+        "iconCls": "icon-man",
+        "parentId": "836a76e9-9361-4126-9670-11e1b860c4e6",
+        "sort": 138,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "DJT",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "357f9d09-8159-47ad-824f-1821b44f8639",
+      "text": "科员",
+      "iconCls": "icon-post",
+      "parentId": "55366047-2de1-4ed9-abf7-41b52381e152",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KY",
+        "status": 1
+      },
+      "children": [{
+        "id": "73102bc0-3207-47ef-81f0-70d7ba18e8c5",
+        "text": "陈麟",
+        "iconCls": "icon-man",
+        "parentId": "357f9d09-8159-47ad-824f-1821b44f8639",
+        "sort": 139,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CL",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "8aafc383-1477-4f6a-9b1f-26b9806de986",
+        "text": "罗其高",
+        "iconCls": "icon-man",
+        "parentId": "357f9d09-8159-47ad-824f-1821b44f8639",
+        "sort": 140,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LQG",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "4378b502-8171-4d7b-921b-cc2e7359db69",
+        "text": "余创文",
+        "iconCls": "icon-man",
+        "parentId": "357f9d09-8159-47ad-824f-1821b44f8639",
+        "sort": 141,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "YCW",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "3a674157-9d52-4746-bf2a-52fceb4c3cd7",
+        "text": "贾港",
+        "iconCls": "icon-man",
+        "parentId": "357f9d09-8159-47ad-824f-1821b44f8639",
+        "sort": 142,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "JG",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "1d2508c7-329b-4b71-a135-97cb9b2fed4b",
+        "text": "成雄高",
+        "iconCls": "icon-man",
+        "parentId": "357f9d09-8159-47ad-824f-1821b44f8639",
+        "sort": 143,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CXG",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "44173b39-cdd6-4643-bff8-767ea9258ae3",
+    "text": "矿产资源管理科",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 11,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "KCZYGLK",
+      "status": 1
+    },
+    "children": [{
+      "id": "366a82dc-fa44-4ee0-91ba-7b85c4f21ec1",
+      "text": "矿管科分管领导",
+      "iconCls": "icon-post",
+      "parentId": "44173b39-cdd6-4643-bff8-767ea9258ae3",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KGKFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "c9d9bf7e-a35f-4bab-b83c-f5928d3a9cdf",
+        "text": "黄卫",
+        "iconCls": "icon-man",
+        "parentId": "366a82dc-fa44-4ee0-91ba-7b85c4f21ec1",
+        "sort": 3,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HW",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "d46cf635-d639-4952-830e-9f023b26045b",
+      "text": "科长",
+      "iconCls": "icon-post",
+      "parentId": "44173b39-cdd6-4643-bff8-767ea9258ae3",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "b2b7ce05-c81e-4363-a1fa-b89b197642da",
+        "text": "廖志明",
+        "iconCls": "icon-man",
+        "parentId": "d46cf635-d639-4952-830e-9f023b26045b",
+        "sort": 144,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LZM",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "fa465231-9cd1-4888-bd9a-b6c429dee3b4",
+      "text": "副科长",
+      "iconCls": "icon-post",
+      "parentId": "44173b39-cdd6-4643-bff8-767ea9258ae3",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FKZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "a2bbe627-33cd-4a75-8ef2-238834e7bd83",
+        "text": "谢文辉",
+        "iconCls": "icon-man",
+        "parentId": "fa465231-9cd1-4888-bd9a-b6c429dee3b4",
+        "sort": 145,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "XWH",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "31e9c473-6a16-415d-acf0-a83a32b69194",
+      "text": "科员",
+      "iconCls": "icon-post",
+      "parentId": "44173b39-cdd6-4643-bff8-767ea9258ae3",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KY",
+        "status": 1
+      },
+      "children": [{
+        "id": "7d0d0473-1bbb-4c30-a13a-03954f0ce993",
+        "text": "崔忠厚",
+        "iconCls": "icon-man",
+        "parentId": "31e9c473-6a16-415d-acf0-a83a32b69194",
+        "sort": 146,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CZH",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "b1ead47a-cbb0-481c-b5c1-b452f744e518",
+        "text": "汤婉君",
+        "iconCls": "icon-man",
+        "parentId": "31e9c473-6a16-415d-acf0-a83a32b69194",
+        "sort": 147,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TWJ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "07408009-c282-41b7-9784-3f2bf8824af2",
+        "text": "戴敏强",
+        "iconCls": "icon-man",
+        "parentId": "31e9c473-6a16-415d-acf0-a83a32b69194",
+        "sort": 148,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "DMQ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "6c4ffe17-94bd-4943-8fe0-68f13fb362f2",
+        "text": "温在华",
+        "iconCls": "icon-man",
+        "parentId": "31e9c473-6a16-415d-acf0-a83a32b69194",
+        "sort": 149,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WZH",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "08c0af0c-b104-4f1e-89e3-5c615f93b200",
+    "text": "村镇规划管理科",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 12,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "CZGHGLK",
+      "status": 1
+    },
+    "children": [{
+      "id": "7902fea4-eabf-4475-83b8-6a2fe95f11d9",
+      "text": "村规科分管领导",
+      "iconCls": "icon-post",
+      "parentId": "08c0af0c-b104-4f1e-89e3-5c615f93b200",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "CGKFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "6cfdbf1c-6a68-4972-8a11-d0d7cc54bd7b",
+        "text": "童立定",
+        "iconCls": "icon-man",
+        "parentId": "7902fea4-eabf-4475-83b8-6a2fe95f11d9",
+        "sort": 4,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TLD",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "f1eebeea-74b9-4017-8ce1-5392078c8cd0",
+      "text": "科长",
+      "iconCls": "icon-post",
+      "parentId": "08c0af0c-b104-4f1e-89e3-5c615f93b200",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "aa81da80-dc42-4b50-9039-83067859fb1c",
+        "text": "曹素丽",
+        "iconCls": "icon-man",
+        "parentId": "f1eebeea-74b9-4017-8ce1-5392078c8cd0",
+        "sort": 150,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CSL",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "4c2a360d-5316-4639-8ef4-392785b1f206",
+      "text": "副科长",
+      "iconCls": "icon-post",
+      "parentId": "08c0af0c-b104-4f1e-89e3-5c615f93b200",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FKZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "20c1df79-24d2-48d0-9aae-25d648d693eb",
+        "text": "龚海勇",
+        "iconCls": "icon-man",
+        "parentId": "4c2a360d-5316-4639-8ef4-392785b1f206",
+        "sort": 151,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "GHY",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "6c1669ab-6838-44f2-802b-1c6042450c95",
+      "text": "科员",
+      "iconCls": "icon-post",
+      "parentId": "08c0af0c-b104-4f1e-89e3-5c615f93b200",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KY",
+        "status": 1
+      },
+      "children": [{
+        "id": "11221e59-74ce-4445-92e3-af1e7342a940",
+        "text": "陈建平",
+        "iconCls": "icon-man",
+        "parentId": "6c1669ab-6838-44f2-802b-1c6042450c95",
+        "sort": 152,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CJP",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "4dc0eade-585b-442a-bab1-0a3640513410",
+        "text": "禤念恩",
+        "iconCls": "icon-man",
+        "parentId": "6c1669ab-6838-44f2-802b-1c6042450c95",
+        "sort": 153,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "XNE",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "daf5be5c-9ff6-493b-9b45-acf53a83ecc2",
+        "text": "邓柏全",
+        "iconCls": "icon-man",
+        "parentId": "6c1669ab-6838-44f2-802b-1c6042450c95",
+        "sort": 154,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "DBQ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "78527ecd-cab3-4f2d-bde7-0c0e9b3b5a3b",
+        "text": "樊仓",
+        "iconCls": "icon-man",
+        "parentId": "6c1669ab-6838-44f2-802b-1c6042450c95",
+        "sort": 155,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "FC",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "e064fab4-57e5-49d5-b430-32a607efed74",
+    "text": "自然资源技术科",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 13,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "ZRZYJSK",
+      "status": 1
+    },
+    "children": [{
+      "id": "94745f5d-6644-45fd-8d4e-d9a2ba1f35a3",
+      "text": "资技科分管领导",
+      "iconCls": "icon-post",
+      "parentId": "e064fab4-57e5-49d5-b430-32a607efed74",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "ZJKFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "48fe2285-86ce-4941-a90f-3ca470b00812",
+        "text": "钟华山",
+        "iconCls": "icon-man",
+        "parentId": "94745f5d-6644-45fd-8d4e-d9a2ba1f35a3",
+        "sort": 5,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZHS",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "556ec17a-9b90-4b51-8168-05425f70e8c5",
+      "text": "科长",
+      "iconCls": "icon-post",
+      "parentId": "e064fab4-57e5-49d5-b430-32a607efed74",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "b8348d0a-dbeb-40d3-8ec5-5a818a58d951",
+        "text": "徐德明",
+        "iconCls": "icon-man",
+        "parentId": "556ec17a-9b90-4b51-8168-05425f70e8c5",
+        "sort": 156,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "XDM",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "189266a4-0fc3-427e-850e-c9a19f6f54dd",
+      "text": "副科长",
+      "iconCls": "icon-post",
+      "parentId": "e064fab4-57e5-49d5-b430-32a607efed74",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FKZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "f38eebbd-7191-46ec-b3b9-10859e20920e",
+        "text": "郑振明",
+        "iconCls": "icon-man",
+        "parentId": "189266a4-0fc3-427e-850e-c9a19f6f54dd",
+        "sort": 157,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZZM",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "fef3694b-5a03-4db6-9bfa-d16dad7d950e",
+      "text": "科员",
+      "iconCls": "icon-post",
+      "parentId": "e064fab4-57e5-49d5-b430-32a607efed74",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KY",
+        "status": 1
+      },
+      "children": [{
+        "id": "f5ba3ee1-98d2-4f33-8e2a-25b705704e3c",
+        "text": "李艳卿",
+        "iconCls": "icon-man",
+        "parentId": "fef3694b-5a03-4db6-9bfa-d16dad7d950e",
+        "sort": 158,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LYQ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "e09ccb53-da90-4f43-8636-207461d6fbb5",
+        "text": "陈天乐",
+        "iconCls": "icon-man",
+        "parentId": "fef3694b-5a03-4db6-9bfa-d16dad7d950e",
+        "sort": 159,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CTL",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "b07ed7ca-d693-4bf5-b907-4bae8818c34e",
+        "text": "宋文姝",
+        "iconCls": "icon-man",
+        "parentId": "fef3694b-5a03-4db6-9bfa-d16dad7d950e",
+        "sort": 160,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "SWS",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "724ec47a-a202-4956-96bd-41116234227b",
+    "text": "测绘地理信息管理科",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 14,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "CHDLXXGLK",
+      "status": 1
+    },
+    "children": [{
+      "id": "b1a311f4-6408-4080-a773-f2ffe491d92b",
+      "text": "测管科分管领导",
+      "iconCls": "icon-post",
+      "parentId": "724ec47a-a202-4956-96bd-41116234227b",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "CGKFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "1b270426-cda6-430a-9180-14546a3f6291",
+        "text": "古长森",
+        "iconCls": "icon-man",
+        "parentId": "b1a311f4-6408-4080-a773-f2ffe491d92b",
+        "sort": 7,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "GZS",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "06f0de8e-a08f-4dd1-8752-1a86997ac57c",
+      "text": "科长",
+      "iconCls": "icon-post",
+      "parentId": "724ec47a-a202-4956-96bd-41116234227b",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "8fd3f6fc-45db-4ade-81b7-443cc521fa23",
+        "text": "罗建波",
+        "iconCls": "icon-man",
+        "parentId": "06f0de8e-a08f-4dd1-8752-1a86997ac57c",
+        "sort": 161,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LJB",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "0054d406-2d98-4276-a47a-cff9dd8fbef2",
+      "text": "副科长",
+      "iconCls": "icon-post",
+      "parentId": "724ec47a-a202-4956-96bd-41116234227b",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FKZ",
+        "status": 1
+      },
+      "children": []
+    }, {
+      "id": "dcfb6674-514d-4aab-8097-31c9fc76a59c",
+      "text": "科员",
+      "iconCls": "icon-post",
+      "parentId": "724ec47a-a202-4956-96bd-41116234227b",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KY",
+        "status": 1
+      },
+      "children": [{
+        "id": "f60ffeee-6f9c-4c70-8306-8e343e6349dc",
+        "text": "车文雄",
+        "iconCls": "icon-man",
+        "parentId": "dcfb6674-514d-4aab-8097-31c9fc76a59c",
+        "sort": 162,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CWX",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "6873a404-7f8d-4a6a-a488-05023ec3dfb0",
+        "text": "郑周诲",
+        "iconCls": "icon-man",
+        "parentId": "dcfb6674-514d-4aab-8097-31c9fc76a59c",
+        "sort": 163,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZZH",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "07754470-5bbe-463d-b329-fafd492e8311",
+        "text": "汤素媚",
+        "iconCls": "icon-man",
+        "parentId": "dcfb6674-514d-4aab-8097-31c9fc76a59c",
+        "sort": 164,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TSM",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "e3d87ae9-b9e1-40c3-87c5-2e8f494582f9",
+    "text": "执法监督科",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 15,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "ZFJDK",
+      "status": 1
+    },
+    "children": [{
+      "id": "8869f94e-0510-4da8-934f-0e1659536664",
+      "text": "执法监督科分管领导",
+      "iconCls": "icon-post",
+      "parentId": "e3d87ae9-b9e1-40c3-87c5-2e8f494582f9",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "ZFJDKFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "8be3a512-9c0e-49db-bf42-0b4eb142f3ae",
+        "text": "麦卫忠",
+        "iconCls": "icon-man",
+        "parentId": "8869f94e-0510-4da8-934f-0e1659536664",
+        "sort": 6,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "MWZ",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "a16aa40d-d5ea-41f0-bf07-b14a0280ae1c",
+      "text": "科长",
+      "iconCls": "icon-post",
+      "parentId": "e3d87ae9-b9e1-40c3-87c5-2e8f494582f9",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "e3cfe5a3-ccfd-4fb4-b6d7-7101ab9eaf88",
+        "text": "陈小兵",
+        "iconCls": "icon-man",
+        "parentId": "a16aa40d-d5ea-41f0-bf07-b14a0280ae1c",
+        "sort": 165,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CXB",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "238d540d-705d-423d-9b8a-b4d416aadca1",
+      "text": "副科长",
+      "iconCls": "icon-post",
+      "parentId": "e3d87ae9-b9e1-40c3-87c5-2e8f494582f9",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FKZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "4857948d-caef-428f-a2f1-530fea9dd0e1",
+        "text": "张雄",
+        "iconCls": "icon-man",
+        "parentId": "238d540d-705d-423d-9b8a-b4d416aadca1",
+        "sort": 166,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZX",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "050e70fa-c2bd-4ea3-94ef-f9ba6bf684aa",
+      "text": "科员",
+      "iconCls": "icon-post",
+      "parentId": "e3d87ae9-b9e1-40c3-87c5-2e8f494582f9",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KY",
+        "status": 1
+      },
+      "children": [{
+        "id": "7d93397a-5348-478b-82ae-dead13acca0a",
+        "text": "华振洲",
+        "iconCls": "icon-man",
+        "parentId": "050e70fa-c2bd-4ea3-94ef-f9ba6bf684aa",
+        "sort": 167,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HZZ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "49a15f51-db19-414a-a3a8-ebd2f763c616",
+        "text": "唐红球",
+        "iconCls": "icon-man",
+        "parentId": "050e70fa-c2bd-4ea3-94ef-f9ba6bf684aa",
+        "sort": 168,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "THQ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "4bf238ec-130b-4f1e-ae96-87d70de15a37",
+        "text": "黄正铿",
+        "iconCls": "icon-man",
+        "parentId": "050e70fa-c2bd-4ea3-94ef-f9ba6bf684aa",
+        "sort": 169,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HZK",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "0c5369b7-f435-402b-ba66-8b125b445a05",
+        "text": "文伟平",
+        "iconCls": "icon-man",
+        "parentId": "050e70fa-c2bd-4ea3-94ef-f9ba6bf684aa",
+        "sort": 170,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WWP",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "132122cc-0e84-4aff-a9db-95bfe88e258d",
+        "text": "韦勇",
+        "iconCls": "icon-man",
+        "parentId": "050e70fa-c2bd-4ea3-94ef-f9ba6bf684aa",
+        "sort": 171,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "8589e8d4-daad-46db-8c38-2aa87c0538a0",
+        "text": "陈志锋",
+        "iconCls": "icon-man",
+        "parentId": "050e70fa-c2bd-4ea3-94ef-f9ba6bf684aa",
+        "sort": 172,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CZF",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "75ffe71b-b14e-408f-8e4d-defca0a7a443",
+        "text": "练桂华",
+        "iconCls": "icon-man",
+        "parentId": "050e70fa-c2bd-4ea3-94ef-f9ba6bf684aa",
+        "sort": 173,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LGH",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "ccfaf3b9-9037-41b8-865c-aa76e6eb0602",
+        "text": "张锡源",
+        "iconCls": "icon-man",
+        "parentId": "050e70fa-c2bd-4ea3-94ef-f9ba6bf684aa",
+        "sort": 174,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZXY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "fc351682-9c5e-4a8e-a446-ed6b13232531",
+        "text": "王靖雅",
+        "iconCls": "icon-man",
+        "parentId": "050e70fa-c2bd-4ea3-94ef-f9ba6bf684aa",
+        "sort": 175,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WJY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "e4f14ea9-105a-472f-a741-88311dfb7fe7",
+        "text": "李锡玲",
+        "iconCls": "icon-man",
+        "parentId": "050e70fa-c2bd-4ea3-94ef-f9ba6bf684aa",
+        "sort": 176,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LXL",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "855f1ac1-397a-4f62-af61-38dfb1cc38b7",
+        "text": "余道林",
+        "iconCls": "icon-man",
+        "parentId": "050e70fa-c2bd-4ea3-94ef-f9ba6bf684aa",
+        "sort": 177,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "YDL",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "74766261-6089-416e-9dda-6f2c5a7bc112",
+        "text": "黄汝艳",
+        "iconCls": "icon-man",
+        "parentId": "050e70fa-c2bd-4ea3-94ef-f9ba6bf684aa",
+        "sort": 178,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HRY",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "0d7966ae-3925-4094-b7d3-ba5da320ecfa",
+    "text": "人事科",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 16,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "RSK",
+      "status": 1
+    },
+    "children": [{
+      "id": "4eee1b7a-b3ff-4ae4-8fba-b643cc6a9d3b",
+      "text": "人事科分管领导",
+      "iconCls": "icon-post",
+      "parentId": "0d7966ae-3925-4094-b7d3-ba5da320ecfa",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "RSKFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "c9d9bf7e-a35f-4bab-b83c-f5928d3a9cdf",
+        "text": "黄卫",
+        "iconCls": "icon-man",
+        "parentId": "4eee1b7a-b3ff-4ae4-8fba-b643cc6a9d3b",
+        "sort": 3,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HW",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "d251e5a3-6d4e-4141-b17b-9ee234cfeba4",
+      "text": "科长",
+      "iconCls": "icon-post",
+      "parentId": "0d7966ae-3925-4094-b7d3-ba5da320ecfa",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "68eebbc9-87a5-405c-8bdd-d6c00ff0413a",
+        "text": "曹垂远",
+        "iconCls": "icon-man",
+        "parentId": "d251e5a3-6d4e-4141-b17b-9ee234cfeba4",
+        "sort": 179,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CCY",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "80bd6beb-045d-419e-9639-1543cca1e707",
+      "text": "副科长",
+      "iconCls": "icon-post",
+      "parentId": "0d7966ae-3925-4094-b7d3-ba5da320ecfa",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FKZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "e7145017-5c30-44ea-a338-5716e1e60ab6",
+        "text": "黄芳",
+        "iconCls": "icon-man",
+        "parentId": "80bd6beb-045d-419e-9639-1543cca1e707",
+        "sort": 180,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HF",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "fe48d81b-e8ed-4367-8424-583717ef06be",
+      "text": "科员",
+      "iconCls": "icon-post",
+      "parentId": "0d7966ae-3925-4094-b7d3-ba5da320ecfa",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KY",
+        "status": 1
+      },
+      "children": [{
+        "id": "4b2748a4-ef0c-4813-ab9f-931c53c163e9",
+        "text": "王南秀",
+        "iconCls": "icon-man",
+        "parentId": "fe48d81b-e8ed-4367-8424-583717ef06be",
+        "sort": 181,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WNX",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "4a93c912-c614-4c99-802f-fe7af477496a",
+        "text": "张烨韵",
+        "iconCls": "icon-man",
+        "parentId": "fe48d81b-e8ed-4367-8424-583717ef06be",
+        "sort": 182,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZYY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "9aab3da9-d8df-4736-9983-e5c06450d2a0",
+        "text": "李如洁",
+        "iconCls": "icon-man",
+        "parentId": "fe48d81b-e8ed-4367-8424-583717ef06be",
+        "sort": 183,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LRJ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "6ed1fa8c-ae8f-44f9-8a19-885485176b7c",
+        "text": "张伟",
+        "iconCls": "icon-man",
+        "parentId": "fe48d81b-e8ed-4367-8424-583717ef06be",
+        "sort": 184,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZW",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "ea9e72b4-201f-4700-b3bf-1a9a5ba9644d",
+        "text": "朱燕郯",
+        "iconCls": "icon-man",
+        "parentId": "fe48d81b-e8ed-4367-8424-583717ef06be",
+        "sort": 185,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZYT",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "47f04d4e-6c3e-4a97-b44d-e4079952d2ba",
+    "text": "机关党办",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 17,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "JGDB",
+      "status": 1
+    },
+    "children": [{
+      "id": "1b66867f-4ddb-4ee5-a5e2-726a6ba552ba",
+      "text": "主任",
+      "iconCls": "icon-post",
+      "parentId": "47f04d4e-6c3e-4a97-b44d-e4079952d2ba",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "ZR",
+        "status": 1
+      },
+      "children": [{
+        "id": "b4b232c5-d4ee-498d-a850-5b401db98480",
+        "text": "陆永雄",
+        "iconCls": "icon-man",
+        "parentId": "1b66867f-4ddb-4ee5-a5e2-726a6ba552ba",
+        "sort": 186,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LYX",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "b15eaec4-b29b-4813-a45e-c6b93945922d",
+      "text": "副主任",
+      "iconCls": "icon-post",
+      "parentId": "47f04d4e-6c3e-4a97-b44d-e4079952d2ba",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FZR",
+        "status": 1
+      },
+      "children": [{
+        "id": "b2ff11b6-8b81-4d1f-ba30-9440988bf1e4",
+        "text": "杨国光",
+        "iconCls": "icon-man",
+        "parentId": "b15eaec4-b29b-4813-a45e-c6b93945922d",
+        "sort": 187,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "YGG",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "dd61aa4c-830b-4dd5-aafb-a4947b9427f1",
+      "text": "科员",
+      "iconCls": "icon-post",
+      "parentId": "47f04d4e-6c3e-4a97-b44d-e4079952d2ba",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KY",
+        "status": 1
+      },
+      "children": [{
+        "id": "f02175b0-359c-4e91-94ef-a867cb58b9cb",
+        "text": "潘隽永",
+        "iconCls": "icon-man",
+        "parentId": "dd61aa4c-830b-4dd5-aafb-a4947b9427f1",
+        "sort": 188,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "PJY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "6a0b84c9-5f2f-4a7c-a687-5d82c853124a",
+        "text": "李伯锵",
+        "iconCls": "icon-man",
+        "parentId": "dd61aa4c-830b-4dd5-aafb-a4947b9427f1",
+        "sort": 189,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LBQ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "52cec182-b9b8-4202-b2de-f9e99b4fa7c4",
+        "text": "田生金",
+        "iconCls": "icon-man",
+        "parentId": "dd61aa4c-830b-4dd5-aafb-a4947b9427f1",
+        "sort": 190,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TSJ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "93e70d3f-80f7-4a32-8869-2abda10fade2",
+        "text": "徐彩连",
+        "iconCls": "icon-man",
+        "parentId": "dd61aa4c-830b-4dd5-aafb-a4947b9427f1",
+        "sort": 191,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "XCL",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "00680177-1388-4521-846d-dfc36fbaff95",
+    "text": "清远市土地整理中心",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 19,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "QYSTDZLZX",
+      "status": 1
+    },
+    "children": [{
+      "id": "9303624e-fc0c-4e01-907f-17daf01a44f0",
+      "text": "土地整理中心分管领导",
+      "iconCls": "icon-post",
+      "parentId": "00680177-1388-4521-846d-dfc36fbaff95",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "TDZLZXFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "6cfdbf1c-6a68-4972-8a11-d0d7cc54bd7b",
+        "text": "童立定",
+        "iconCls": "icon-man",
+        "parentId": "9303624e-fc0c-4e01-907f-17daf01a44f0",
+        "sort": 4,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TLD",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "ae1da1cd-9514-46b3-b4c0-76ab2b398def",
+      "text": "主任",
+      "iconCls": "icon-post",
+      "parentId": "00680177-1388-4521-846d-dfc36fbaff95",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "ZR",
+        "status": 1
+      },
+      "children": [{
+        "id": "9fea6bae-75b0-4d39-8f04-dc4e12a67532",
+        "text": "王建军",
+        "iconCls": "icon-man",
+        "parentId": "ae1da1cd-9514-46b3-b4c0-76ab2b398def",
+        "sort": 192,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WJJ",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "8d213443-d0bd-419f-aaa6-2683e812f640",
+      "text": "副主任",
+      "iconCls": "icon-post",
+      "parentId": "00680177-1388-4521-846d-dfc36fbaff95",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FZR",
+        "status": 1
+      },
+      "children": [{
+        "id": "80316a38-f254-4173-a9bb-2942f0b5b1cd",
+        "text": "罗旭鸣",
+        "iconCls": "icon-man",
+        "parentId": "8d213443-d0bd-419f-aaa6-2683e812f640",
+        "sort": 193,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LXM",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "dce844ae-8e48-492e-a2a8-f7267f78868d",
+        "text": "汤振强",
+        "iconCls": "icon-man",
+        "parentId": "8d213443-d0bd-419f-aaa6-2683e812f640",
+        "sort": 194,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TZQ",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "f6ecf473-b974-4496-8c93-abb9e8cc1711",
+      "text": "职员",
+      "iconCls": "icon-post",
+      "parentId": "00680177-1388-4521-846d-dfc36fbaff95",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "ZY",
+        "status": 1
+      },
+      "children": [{
+        "id": "3a82763f-5424-45ee-88d5-db32e173e490",
+        "text": "潘志斌",
+        "iconCls": "icon-man",
+        "parentId": "f6ecf473-b974-4496-8c93-abb9e8cc1711",
+        "sort": 195,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "PZB",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "8b5f2eb0-cded-4f0c-919e-eccf351054fa",
+        "text": "肖桂青",
+        "iconCls": "icon-man",
+        "parentId": "f6ecf473-b974-4496-8c93-abb9e8cc1711",
+        "sort": 196,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "XGQ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "dda0fdf7-f485-4152-b125-83802c3045ff",
+        "text": "黄粤军",
+        "iconCls": "icon-man",
+        "parentId": "f6ecf473-b974-4496-8c93-abb9e8cc1711",
+        "sort": 197,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HYJ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "8c149d63-9f4a-404d-b0dd-11c1785a6393",
+        "text": "吴敏琪",
+        "iconCls": "icon-man",
+        "parentId": "f6ecf473-b974-4496-8c93-abb9e8cc1711",
+        "sort": 198,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WMQ",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "9087b7f6-adcc-4c8d-adfc-eae0b2956a49",
+    "text": "清远市不动产登记中心",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 20,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "QYSBDCDJZX",
+      "status": 1
+    },
+    "children": [{
+      "id": "6ecc4eb2-dcc5-4911-b098-0ef571dd768e",
+      "text": "不动产登记中心分管领导",
+      "iconCls": "icon-post",
+      "parentId": "9087b7f6-adcc-4c8d-adfc-eae0b2956a49",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "BDCDJZXFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "1b270426-cda6-430a-9180-14546a3f6291",
+        "text": "古长森",
+        "iconCls": "icon-man",
+        "parentId": "6ecc4eb2-dcc5-4911-b098-0ef571dd768e",
+        "sort": 7,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "GZS",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "d1c08ff6-1657-4b9b-ac8e-262a00aec014",
+      "text": "主任",
+      "iconCls": "icon-post",
+      "parentId": "9087b7f6-adcc-4c8d-adfc-eae0b2956a49",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "ZR",
+        "status": 1
+      },
+      "children": [{
+        "id": "07d8cf4b-bc43-4e00-ab05-aafafe982738",
+        "text": "丘强",
+        "iconCls": "icon-man",
+        "parentId": "d1c08ff6-1657-4b9b-ac8e-262a00aec014",
+        "sort": 199,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "QQ",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "14275741-221e-4433-94f6-e6539b38e500",
+      "text": "副主任",
+      "iconCls": "icon-post",
+      "parentId": "9087b7f6-adcc-4c8d-adfc-eae0b2956a49",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FZR",
+        "status": 1
+      },
+      "children": [{
+        "id": "42b3e5a5-d186-4c26-8143-55bf0a5a01de",
+        "text": "潘桂梅",
+        "iconCls": "icon-man",
+        "parentId": "14275741-221e-4433-94f6-e6539b38e500",
+        "sort": 200,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "PGM",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "01b55dba-d532-4baf-b1c8-9d218d035db6",
+        "text": "黄晓文",
+        "iconCls": "icon-man",
+        "parentId": "14275741-221e-4433-94f6-e6539b38e500",
+        "sort": 201,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HXW",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "e9a3ab59-a0fe-469e-ae8a-496a7333e3ef",
+      "text": "工程师",
+      "iconCls": "icon-post",
+      "parentId": "9087b7f6-adcc-4c8d-adfc-eae0b2956a49",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "GCS",
+        "status": 1
+      },
+      "children": [{
+        "id": "26dcca0a-18a1-46a8-a6a3-cdf6798578a5",
+        "text": "田双双",
+        "iconCls": "icon-man",
+        "parentId": "e9a3ab59-a0fe-469e-ae8a-496a7333e3ef",
+        "sort": 202,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TSS",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+      "text": "职员",
+      "iconCls": "icon-post",
+      "parentId": "9087b7f6-adcc-4c8d-adfc-eae0b2956a49",
+      "sort": 4,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "ZY",
+        "status": 1
+      },
+      "children": [{
+        "id": "26dcca0a-18a1-46a8-a6a3-cdf6798578a5",
+        "text": "田双双",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 202,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TSS",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "fb6cff0d-f109-4547-bf92-7b190610faff",
+        "text": "林静娴",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 203,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LJX",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "684f8414-9018-4916-8632-e938b94e046c",
+        "text": "曾瑶",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 204,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "0b2d9cb3-8e36-4a05-956f-305c3df05277",
+        "text": "陈洪明",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 205,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CHM",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "8c18f78f-5952-4e94-91cc-e0a8bf601dd7",
+        "text": "费利波",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 206,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "FLB",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "00aeac35-19e8-44bf-9b82-1bf6d68ebf2a",
+        "text": "高升",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 207,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "GS",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "223d7f72-508d-46de-a727-612afa57f14c",
+        "text": "古杨坤",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 208,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "GYK",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "d6e86cd0-1ca2-4122-8e53-b9e3d569730a",
+        "text": "黄晓芬",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 209,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HXF",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "ca9d559b-6a9c-4136-89ac-c87c7ddfd183",
+        "text": "黄钟萍",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 210,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HZP",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "0247f6ee-994c-4d4e-96b7-0b3f1c4da2f7",
+        "text": "李玉婷",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 211,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LYT",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "64d9677c-8080-47a8-a216-460c5d19fe77",
+        "text": "龙超明",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 212,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LCM",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "b91c8080-70d3-43a5-8778-29beb30ab29e",
+        "text": "罗秋平",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 213,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LQP",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "16549d52-223d-4fd0-8636-2e05ee592b75",
+        "text": "罗蔚",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 214,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "360eefe8-3311-49a8-8bb1-8f0e0ca598ec",
+        "text": "沈小平",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 215,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "SXP",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "ebfda5a0-6ab1-4f61-88ea-159ee1d2e3bb",
+        "text": "王洪珍",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 216,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WHZ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "15a3b204-54ec-4708-863b-b42ce44edb1a",
+        "text": "王杰丹",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 217,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WJD",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "dbc3b8ba-9f25-4e16-85fa-1240d2b86076",
+        "text": "王庆红",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 218,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WQH",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "cecda503-bdb2-4475-afc2-41082b7557d4",
+        "text": "游悦",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 219,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "YY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "11834224-7e13-47bd-bc70-c37c1e22e4e5",
+        "text": "曾荣",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 220,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CR",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "edc5f386-4cb2-4a71-b00a-73b552c28c24",
+        "text": "张思玥",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 221,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZSY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "b277efbf-4461-4244-9163-b7ef0fdda92c",
+        "text": "郑记珊",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 222,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZJS",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "e0b439a1-7260-449e-bf30-222d2912a0d1",
+        "text": "周碧君",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 223,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZBJ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "7f5bf2c6-ec0d-474b-a7d7-adac1f7f0d95",
+        "text": "王笳",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 224,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WJ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "2c8e5c52-7695-455a-9003-ae7d67dbce9c",
+        "text": "覃洁莹",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 225,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TJY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "4f132288-aa5b-497c-ad37-083caaefafea",
+        "text": "罗晓婷",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 226,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LXT",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "739513d2-393b-486a-94a0-eb00df01d1a4",
+        "text": "陆彩红",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 227,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LCH",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "5f60fc88-40e7-42c2-80ec-c491a1707ca8",
+        "text": "欧雪婷",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 228,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "OXT",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "0de94a3b-e625-4ac8-9797-d45a9aa93bad",
+        "text": "温颖怡",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 229,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WYY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "3a0505fa-08ea-455e-aeb9-0b2667ca6472",
+        "text": "巫伟祥",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 230,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WWX",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "c311dafc-ad43-4912-a17e-f7dc811aa591",
+        "text": "曾勇",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 231,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "bd316ae3-5c9f-4394-96d6-d34f64b97d80",
+        "text": "章航海",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 232,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZHH",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "c2d5b2dc-e2c6-4584-85cc-d176a48cb42c",
+        "text": "张丽欢",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 233,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZLH",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "b481ab95-4890-4baf-b34e-f75575345296",
+        "text": "钟爱君",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 234,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZAJ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "f1046946-9a5b-4646-bddd-6606fc2e5126",
+        "text": "朱大标",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 235,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZDB",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "c553fd14-1d51-4335-8409-29995da29042",
+        "text": "朱梦嘉",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 236,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZMJ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "a1e9c0c3-4a0e-491c-9c95-aec73eb8a14e",
+        "text": "谌润",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 237,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CR",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "c70823a5-5004-4509-9bc5-6964e3ed04f2",
+        "text": "蔡巧玲",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 238,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CQL",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "2b60c25e-7c08-455c-bbd9-cd6cd73f6315",
+        "text": "龚宏诚",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 239,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "GHC",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "9d1c83cb-e9b3-4fb2-bb98-0d65a524c1f0",
+        "text": "刘少芬",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 240,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LSF",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "f99cebfa-3ef2-4d5d-914a-8aff03068971",
+        "text": "林春霞",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 241,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LCX",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "f3e28cd3-734b-44f9-94ab-ab5111eb8ee5",
+        "text": "刘英梅",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 242,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LYM",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "723f236b-a3e3-403a-addf-4b0d82c426f4",
+        "text": "刘小明",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 243,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LXM",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "b68079a0-f411-4f16-bcea-22d61e9955a8",
+        "text": "黄妍",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 244,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "4e6ca880-02f4-4e70-87a4-4472b0dd1892",
+        "text": "赖远萍",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 245,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LYP",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "3fc2a332-01d5-483b-a2d1-a540c0a1109a",
+        "text": "李惠峰",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 246,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LHF",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "d4cf663e-7462-485f-b923-f7151d3281a9",
+        "text": "李思茵",
+        "iconCls": "icon-man",
+        "parentId": "356a68f9-5cf9-4de3-b089-4597cd4febcb",
+        "sort": 247,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LSY",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "bd243f6c-4612-406e-9ca5-65efe50aaba3",
+    "text": "清远市地质环境监测站",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 21,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "QYSDZHJJCZ",
+      "status": 1
+    },
+    "children": [{
+      "id": "e6317ffc-a6be-4cee-8aea-2a1835bd4df0",
+      "text": "环境监测站分管领导",
+      "iconCls": "icon-post",
+      "parentId": "bd243f6c-4612-406e-9ca5-65efe50aaba3",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "HJJCZFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "c9d9bf7e-a35f-4bab-b83c-f5928d3a9cdf",
+        "text": "黄卫",
+        "iconCls": "icon-man",
+        "parentId": "e6317ffc-a6be-4cee-8aea-2a1835bd4df0",
+        "sort": 3,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HW",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "aa14b350-700f-4518-86d6-94c1318c5fa0",
+      "text": "主任",
+      "iconCls": "icon-post",
+      "parentId": "bd243f6c-4612-406e-9ca5-65efe50aaba3",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "ZR",
+        "status": 1
+      },
+      "children": [{
+        "id": "3be6febf-3eb5-4db4-96de-2749728b758f",
+        "text": "陈全根",
+        "iconCls": "icon-man",
+        "parentId": "aa14b350-700f-4518-86d6-94c1318c5fa0",
+        "sort": 248,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CQG",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "95d707c1-14bf-4b30-af51-e9d307f76379",
+      "text": "职员",
+      "iconCls": "icon-post",
+      "parentId": "bd243f6c-4612-406e-9ca5-65efe50aaba3",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "ZY",
+        "status": 1
+      },
+      "children": [{
+        "id": "4b8545a2-34c0-4062-be71-e87fb22c64ea",
+        "text": "李映",
+        "iconCls": "icon-man",
+        "parentId": "95d707c1-14bf-4b30-af51-e9d307f76379",
+        "sort": 249,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "8ecd9ed0-ef76-484b-871a-0b45c8ffc0af",
+        "text": "阮永泉",
+        "iconCls": "icon-man",
+        "parentId": "95d707c1-14bf-4b30-af51-e9d307f76379",
+        "sort": 250,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "RYQ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "33abf6c8-1124-4fe3-b99d-d43a837111e1",
+        "text": "罗晓静",
+        "iconCls": "icon-man",
+        "parentId": "95d707c1-14bf-4b30-af51-e9d307f76379",
+        "sort": 251,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LXJ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "bb568655-ea7f-45f9-abc1-722d2f8b69c7",
+        "text": "凌展文",
+        "iconCls": "icon-man",
+        "parentId": "95d707c1-14bf-4b30-af51-e9d307f76379",
+        "sort": 252,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LZW",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "458ba7ed-21a3-4f4e-836a-d06188330e30",
+        "text": "陈侃正",
+        "iconCls": "icon-man",
+        "parentId": "95d707c1-14bf-4b30-af51-e9d307f76379",
+        "sort": 253,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CKZ",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "6a6f44be-6560-43e5-b96f-0c5549d617a1",
+    "text": "清远市测绘地理信息中心",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 22,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "QYSCHDLXXZX",
+      "status": 1
+    },
+    "children": [{
+      "id": "987a9748-fc15-4cd7-b4df-dfbc62e2e4d7",
+      "text": "测绘地理信息中心分管领导",
+      "iconCls": "icon-post",
+      "parentId": "6a6f44be-6560-43e5-b96f-0c5549d617a1",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "CHDLXXZXFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "1b270426-cda6-430a-9180-14546a3f6291",
+        "text": "古长森",
+        "iconCls": "icon-man",
+        "parentId": "987a9748-fc15-4cd7-b4df-dfbc62e2e4d7",
+        "sort": 7,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "GZS",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "3b957ff3-b0d2-4fa3-9f26-1a2b1f7b33a6",
+      "text": "主任",
+      "iconCls": "icon-post",
+      "parentId": "6a6f44be-6560-43e5-b96f-0c5549d617a1",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "ZR",
+        "status": 1
+      },
+      "children": [{
+        "id": "e00139af-72d8-4084-83e4-f1a03fabc1d3",
+        "text": "李泽平",
+        "iconCls": "icon-man",
+        "parentId": "3b957ff3-b0d2-4fa3-9f26-1a2b1f7b33a6",
+        "sort": 254,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LZP",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "e616593b-17dc-4be1-b1e2-89587f95d80a",
+      "text": "副主任",
+      "iconCls": "icon-post",
+      "parentId": "6a6f44be-6560-43e5-b96f-0c5549d617a1",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FZR",
+        "status": 1
+      },
+      "children": [{
+        "id": "63c902c6-3f26-4396-9640-63ef8dc551cb",
+        "text": "蔡筱倩",
+        "iconCls": "icon-man",
+        "parentId": "e616593b-17dc-4be1-b1e2-89587f95d80a",
+        "sort": 255,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CXQ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "b852e20c-b16c-4bd1-8f15-3346bfcce8c2",
+        "text": "黄庆文",
+        "iconCls": "icon-man",
+        "parentId": "e616593b-17dc-4be1-b1e2-89587f95d80a",
+        "sort": 256,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HQW",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "67ceefc6-0e3c-4dfc-aaac-2c460d55af15",
+        "text": "何昌华",
+        "iconCls": "icon-man",
+        "parentId": "e616593b-17dc-4be1-b1e2-89587f95d80a",
+        "sort": 257,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HCH",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+      "text": "职员",
+      "iconCls": "icon-post",
+      "parentId": "6a6f44be-6560-43e5-b96f-0c5549d617a1",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "ZY",
+        "status": 1
+      },
+      "children": [{
+        "id": "0b2d9cb3-8e36-4a05-956f-305c3df05277",
+        "text": "陈洪明",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 205,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CHM",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "00000001-0000-0000-0010-000000000001",
+        "text": "超级管理员",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 258,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CJGLY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "de6422ea-2e75-40f9-95d3-c3916c4f613e",
+        "text": "谭子宽",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 259,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TZK",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "2b9c3ba2-815e-4c79-8bdf-afe0d6811589",
+        "text": "贺玉琪",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 260,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HYQ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "b8f0d4f6-07ad-4c2e-b338-f3739615fd8c",
+        "text": "黄晓明",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 261,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HXM",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "4102588e-7b7c-4c3c-a165-10d0341cc57b",
+        "text": "孔明",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 262,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "KM",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "c564402a-e03c-4886-af43-f3a2bac87fce",
+        "text": "李海源",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 263,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LHY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "e727365e-e834-4aa1-b318-42781dcf02b5",
+        "text": "李擎",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 264,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LQ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "5607eb95-5f3e-40e3-ae3c-c85cef669f45",
+        "text": "梁志坚",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 265,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LZJ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "d425a871-aaa9-4351-9c15-d1101a9a9c5e",
+        "text": "廖志锋",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 266,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LZF",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "eec65f45-904f-4f87-aa98-b3152c486c93",
+        "text": "刘庆枫",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 267,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LQF",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "c4f0ca61-0b5b-4f49-95ff-a8e8c6c8991e",
+        "text": "龙聪",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 268,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LC",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "ecde2b6d-4104-46ea-8c23-758f9d7d97c5",
+        "text": "卢经纶",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 269,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LJL",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "ea9e76fa-1da1-4101-ba43-14eeb8e1be81",
+        "text": "陈恩健",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 270,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CEJ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "0df1c118-dba5-4961-8be3-e8ba5ff9fa74",
+        "text": "陈家雄",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 271,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CJX",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "715dab8d-d9b7-4b49-b9d5-d2a7cddc0b52",
+        "text": "邓子锋",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 272,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "DZF",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "58c0a477-63f5-4763-a919-d328ac4b85f8",
+        "text": "冯新",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 273,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "FX",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "3a19b5e8-05ed-4113-83da-6223ec63f77a",
+        "text": "李丽英",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 274,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LLY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "511d1529-f02a-45e6-aced-a2a94dc22b0a",
+        "text": "卢荣森",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 275,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LRS",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "49741063-28af-4643-bfdb-8ca897992091",
+        "text": "陆日升",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 276,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LRS",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "ec759a03-ca6e-4c69-addd-ae3944faa960",
+        "text": "麦达伟",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 277,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "MDW",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "d6f2068b-4a02-43b1-9989-b7217d7787e5",
+        "text": "莫星文",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 278,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "MXW",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "b51dbf96-5086-452e-8c71-194a74268290",
+        "text": "潘焕潮",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 279,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "PHC",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "9214797a-0269-486f-a744-214487a41d78",
+        "text": "邱镜辉",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 280,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "QJH",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "6b90f0c3-394c-4b23-8698-4850dd365e5c",
+        "text": "韦建财",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 281,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WJC",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "b076276e-a830-4744-8f52-a78f24a44061",
+        "text": "吴基雄",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 282,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WJX",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "6bc74b2d-3e03-48b4-a631-3f98a875999d",
+        "text": "谢坚伟",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 283,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "XJW",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "14434e76-96d0-43c4-8cf4-bc1d3775f125",
+        "text": "杨贤辉",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 284,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "YXH",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "39bb4a96-2ad5-469d-96d2-5629edc4af8c",
+        "text": "曾建军",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 285,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CJJ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "25ba39d6-7c7d-41f8-8808-cdf482152651",
+        "text": "曾志平",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 286,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CZP",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "1f70dd1e-ea68-48e7-b900-c7c971906e37",
+        "text": "张喆怿",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 287,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZZY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "eb6c7667-d2f1-4421-8eb9-c620c3c872a2",
+        "text": "郑志云",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 288,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZZY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "a43768a1-f359-4144-b18e-a4bb8aa92a18",
+        "text": "周永林",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 289,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZYL",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "28207d13-1c88-4ada-a624-04cc867d3e5a",
+        "text": "周中莹",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 290,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZZY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "3faa67cd-7acb-475e-86ea-dc5f69c01c49",
+        "text": "邝东宇",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 291,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "KDY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "959923f5-6f31-4fb6-9647-d2403245eda0",
+        "text": "庞俊",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 292,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "PJ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "11b1eb62-b89d-4ca3-9973-3fb77a24c27b",
+        "text": "丘建裕",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 293,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "QJY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "84a3d0ef-1594-4874-8c6f-f13dba3f4557",
+        "text": "宋文",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 294,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "SW",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "7e3d0be6-ec1f-419d-80d1-465f4437f9c8",
+        "text": "章重阳",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 295,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZZY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "17c2e7a5-54ec-4308-b964-2cf64bcb7216",
+        "text": "陈波",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 296,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CB",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "182fe8cb-8a76-420f-a438-ec950281202e",
+        "text": "陈成贤",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 297,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CCX",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "b053bae2-2274-47ce-b729-4b84da4f10c1",
+        "text": "陈子亮",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 298,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CZL",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "3e9b48db-93fc-42f7-920f-80745b8192d4",
+        "text": "李健红",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 299,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LJH",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "4c52d4f5-0cdb-48a8-b63e-1d4103856071",
+        "text": "李杏仪",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 300,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LXY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "98d11719-a27d-4e66-9100-b2cd08595c57",
+        "text": "王景辉",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 301,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WJH",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "3327a330-0cd2-4b14-b77b-fd2622b00217",
+        "text": "吴秋桐",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 302,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WQT",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "3b9ec112-c556-4f0d-ac90-c67f15f94810",
+        "text": "吴燕萍",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 303,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WYP",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "574dc647-e90e-4dd1-8395-f778497d6d7a",
+        "text": "谢伟文",
+        "iconCls": "icon-man",
+        "parentId": "7caf7773-342c-48c8-9e9b-0150f7feadf1",
+        "sort": 304,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "XWW",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "23a42e95-4168-4399-a328-33c7ea2e995a",
+    "text": "市规划建设档案馆",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 23,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "SGHJSDAG",
+      "status": 1
+    },
+    "children": [{
+      "id": "664f243d-8e94-4aac-a18e-2f4eaf57690d",
+      "text": "规建馆分管领导",
+      "iconCls": "icon-post",
+      "parentId": "23a42e95-4168-4399-a328-33c7ea2e995a",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "GJGFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "6cfdbf1c-6a68-4972-8a11-d0d7cc54bd7b",
+        "text": "童立定",
+        "iconCls": "icon-man",
+        "parentId": "664f243d-8e94-4aac-a18e-2f4eaf57690d",
+        "sort": 4,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TLD",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "d64a24d7-6410-4aeb-816e-c180822d1b5c",
+      "text": "主任",
+      "iconCls": "icon-post",
+      "parentId": "23a42e95-4168-4399-a328-33c7ea2e995a",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "ZR",
+        "status": 1
+      },
+      "children": [{
+        "id": "e7af38cd-e0a2-4cde-ade7-222fd5905153",
+        "text": "曾健春",
+        "iconCls": "icon-man",
+        "parentId": "d64a24d7-6410-4aeb-816e-c180822d1b5c",
+        "sort": 305,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CJC",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "d2ab910d-273d-42f0-81e1-a1a3fc6ce34b",
+      "text": "副主任",
+      "iconCls": "icon-post",
+      "parentId": "23a42e95-4168-4399-a328-33c7ea2e995a",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FZR",
+        "status": 1
+      },
+      "children": [{
+        "id": "d4de8810-6b1c-48a7-a7a0-4e4ecef329eb",
+        "text": "林志雄",
+        "iconCls": "icon-man",
+        "parentId": "d2ab910d-273d-42f0-81e1-a1a3fc6ce34b",
+        "sort": 306,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LZX",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "6a09e44a-2196-4ae4-a3b6-e2e9b50190d1",
+      "text": "职员",
+      "iconCls": "icon-post",
+      "parentId": "23a42e95-4168-4399-a328-33c7ea2e995a",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "ZY",
+        "status": 1
+      },
+      "children": [{
+        "id": "179abf31-d160-4a04-a43f-b678c0ecc7d4",
+        "text": "成少霞",
+        "iconCls": "icon-man",
+        "parentId": "6a09e44a-2196-4ae4-a3b6-e2e9b50190d1",
+        "sort": 307,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CSX",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "903933aa-3362-4113-8e33-e00aee287b23",
+        "text": "胡骏涛",
+        "iconCls": "icon-man",
+        "parentId": "6a09e44a-2196-4ae4-a3b6-e2e9b50190d1",
+        "sort": 308,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HJT",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "8c838e6c-3cea-4d8a-89ee-4906fdb84d44",
+        "text": "麦  懿",
+        "iconCls": "icon-man",
+        "parentId": "6a09e44a-2196-4ae4-a3b6-e2e9b50190d1",
+        "sort": 309,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "M  Y",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "6a5efbd8-4d34-415a-853a-918e2278b40d",
+        "text": "苏思颖",
+        "iconCls": "icon-man",
+        "parentId": "6a09e44a-2196-4ae4-a3b6-e2e9b50190d1",
+        "sort": 310,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "SSY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "6bb20e65-71d5-444a-9eb7-a91e16e5f780",
+        "text": "梁仿妹",
+        "iconCls": "icon-man",
+        "parentId": "6a09e44a-2196-4ae4-a3b6-e2e9b50190d1",
+        "sort": 311,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LFM",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "7dbd8e2a-07a0-4c4b-8881-45b39c3d5d8a",
+        "text": "何宏芳",
+        "iconCls": "icon-man",
+        "parentId": "6a09e44a-2196-4ae4-a3b6-e2e9b50190d1",
+        "sort": 312,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HHF",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "c382bf39-11b6-4892-81ef-f2153570de87",
+        "text": "卢雪瑶",
+        "iconCls": "icon-man",
+        "parentId": "6a09e44a-2196-4ae4-a3b6-e2e9b50190d1",
+        "sort": 313,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LXY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "f1137763-7a8f-497f-951f-1d146ad43e04",
+        "text": "苏静娴",
+        "iconCls": "icon-man",
+        "parentId": "6a09e44a-2196-4ae4-a3b6-e2e9b50190d1",
+        "sort": 314,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "SJX",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "961c3943-c825-4f1b-a955-bcc5fe080287",
+        "text": "黄艳芳",
+        "iconCls": "icon-man",
+        "parentId": "6a09e44a-2196-4ae4-a3b6-e2e9b50190d1",
+        "sort": 315,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HYF",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "248604ef-9a21-441e-86b6-1bdd7c3b71aa",
+        "text": "范丽婷",
+        "iconCls": "icon-man",
+        "parentId": "6a09e44a-2196-4ae4-a3b6-e2e9b50190d1",
+        "sort": 316,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "FLT",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "a94e8683-882f-4341-bc29-abdf0c441103",
+        "text": "佘群英",
+        "iconCls": "icon-man",
+        "parentId": "6a09e44a-2196-4ae4-a3b6-e2e9b50190d1",
+        "sort": 317,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "SQY",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "81a8542c-fc6e-4e8a-a628-d3627247ceab",
+    "text": "清远市城乡规划编制研究中心\t\t",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 24,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "QYSCXGHBZYJZX\t\t",
+      "status": 1
+    },
+    "children": [{
+      "id": "7a762f21-1bca-4062-acef-d7b84ffee112",
+      "text": "城规编研中心分管领导",
+      "iconCls": "icon-post",
+      "parentId": "81a8542c-fc6e-4e8a-a628-d3627247ceab",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "CGBYZXFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "48fe2285-86ce-4941-a90f-3ca470b00812",
+        "text": "钟华山",
+        "iconCls": "icon-man",
+        "parentId": "7a762f21-1bca-4062-acef-d7b84ffee112",
+        "sort": 5,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZHS",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "8977448a-79a6-4635-8df6-4cf91b145b44",
+      "text": "主任",
+      "iconCls": "icon-post",
+      "parentId": "81a8542c-fc6e-4e8a-a628-d3627247ceab",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "ZR",
+        "status": 1
+      },
+      "children": []
+    }, {
+      "id": "2c8b1f5a-bf45-4faf-8c7d-888820532173",
+      "text": "副主任",
+      "iconCls": "icon-post",
+      "parentId": "81a8542c-fc6e-4e8a-a628-d3627247ceab",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FZR",
+        "status": 1
+      },
+      "children": [{
+        "id": "90e93741-a616-4a0b-b125-2d78af449d54",
+        "text": "谢宝炫",
+        "iconCls": "icon-man",
+        "parentId": "2c8b1f5a-bf45-4faf-8c7d-888820532173",
+        "sort": 318,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "XBX",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "9673bda2-6f27-4a96-8091-7d4f2e28fb8d",
+        "text": "王海辉",
+        "iconCls": "icon-man",
+        "parentId": "2c8b1f5a-bf45-4faf-8c7d-888820532173",
+        "sort": 319,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WHH",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "8f33f48e-7ff7-459f-b2af-d5fe953c93e1",
+      "text": "职员",
+      "iconCls": "icon-post",
+      "parentId": "81a8542c-fc6e-4e8a-a628-d3627247ceab",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "ZY",
+        "status": 1
+      },
+      "children": [{
+        "id": "4c00c1f2-e750-4409-ad89-863830b148e8",
+        "text": "黄端",
+        "iconCls": "icon-man",
+        "parentId": "8f33f48e-7ff7-459f-b2af-d5fe953c93e1",
+        "sort": 320,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HD",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "abbdf9d9-2a1f-4404-a96a-dfb057087c2d",
+        "text": "曾展",
+        "iconCls": "icon-man",
+        "parentId": "8f33f48e-7ff7-459f-b2af-d5fe953c93e1",
+        "sort": 321,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CZ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "92478dc8-452c-482d-b1f0-24dda2580f62",
+        "text": "谭哲",
+        "iconCls": "icon-man",
+        "parentId": "8f33f48e-7ff7-459f-b2af-d5fe953c93e1",
+        "sort": 322,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TZ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "cafe444f-1e0e-43e2-a7ff-5c23d242c28a",
+        "text": "林叶嫦",
+        "iconCls": "icon-man",
+        "parentId": "8f33f48e-7ff7-459f-b2af-d5fe953c93e1",
+        "sort": 323,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LYC",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "2615af4e-b22b-4c03-afff-72410e522763",
+        "text": "赖清汉",
+        "iconCls": "icon-man",
+        "parentId": "8f33f48e-7ff7-459f-b2af-d5fe953c93e1",
+        "sort": 324,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LQH",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "08df547b-6f6e-44a4-8223-cc5647d07ed3",
+        "text": "张丽丝",
+        "iconCls": "icon-man",
+        "parentId": "8f33f48e-7ff7-459f-b2af-d5fe953c93e1",
+        "sort": 325,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZLS",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "47b7b4a6-6bd4-419f-aa65-99c97a7f5e94",
+        "text": "邓彩岚",
+        "iconCls": "icon-man",
+        "parentId": "8f33f48e-7ff7-459f-b2af-d5fe953c93e1",
+        "sort": 326,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "DCL",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "4d5309b7-6bb8-4deb-a7f0-298ef4db7914",
+        "text": "罗丽莹",
+        "iconCls": "icon-man",
+        "parentId": "8f33f48e-7ff7-459f-b2af-d5fe953c93e1",
+        "sort": 327,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LLY",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "7df06749-daec-4d21-9c72-395151385e77",
+        "text": "龙婧旭",
+        "iconCls": "icon-man",
+        "parentId": "8f33f48e-7ff7-459f-b2af-d5fe953c93e1",
+        "sort": 328,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LJX",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "b067214b-6a12-460c-ac86-1860e82a1e28",
+        "text": "朱铭雯",
+        "iconCls": "icon-man",
+        "parentId": "8f33f48e-7ff7-459f-b2af-d5fe953c93e1",
+        "sort": 329,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZMW",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "271d469b-15f4-4e39-8123-abcda7c3b790",
+        "text": "潘子君",
+        "iconCls": "icon-man",
+        "parentId": "8f33f48e-7ff7-459f-b2af-d5fe953c93e1",
+        "sort": 330,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "PZJ",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "0e9e48a4-dfa3-43bd-b07d-4d5c9506d8f0",
+        "text": "张海恩",
+        "iconCls": "icon-man",
+        "parentId": "8f33f48e-7ff7-459f-b2af-d5fe953c93e1",
+        "sort": 331,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZHE",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "d7df1f57-c167-4c2d-a77a-2a4b26531ca1",
+        "text": "田福新",
+        "iconCls": "icon-man",
+        "parentId": "8f33f48e-7ff7-459f-b2af-d5fe953c93e1",
+        "sort": 332,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TFX",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "52a0a7ba-7d82-40eb-be5a-343350732d83",
+    "text": "清远市城乡规划设计院\t",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 25,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "QYSCXGHSJY\t",
+      "status": 1
+    },
+    "children": [{
+      "id": "f4204405-e43d-4701-b55e-bddcc36800c6",
+      "text": "城规设计院分管领导",
+      "iconCls": "icon-post",
+      "parentId": "52a0a7ba-7d82-40eb-be5a-343350732d83",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "CGSJYFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "48fe2285-86ce-4941-a90f-3ca470b00812",
+        "text": "钟华山",
+        "iconCls": "icon-man",
+        "parentId": "f4204405-e43d-4701-b55e-bddcc36800c6",
+        "sort": 5,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZHS",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "d0756199-fed5-49b1-85ec-6b62758d6095",
+      "text": "院长",
+      "iconCls": "icon-post",
+      "parentId": "52a0a7ba-7d82-40eb-be5a-343350732d83",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "YZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "52984f47-ec83-45cc-b7ea-d326ce6cafb0",
+        "text": "胡可龙",
+        "iconCls": "icon-man",
+        "parentId": "d0756199-fed5-49b1-85ec-6b62758d6095",
+        "sort": 333,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HKL",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "e59f2366-0126-4388-bcf7-a04872334a71",
+      "text": "副院长",
+      "iconCls": "icon-post",
+      "parentId": "52a0a7ba-7d82-40eb-be5a-343350732d83",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FYZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "e01f668f-9e21-4505-a690-d58f2ff3f5df",
+        "text": "方磊",
+        "iconCls": "icon-man",
+        "parentId": "e59f2366-0126-4388-bcf7-a04872334a71",
+        "sort": 334,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "FL",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "0789b9f3-7f8a-4c83-a614-d4c3ee54b1dd",
+        "text": "吴虎",
+        "iconCls": "icon-man",
+        "parentId": "e59f2366-0126-4388-bcf7-a04872334a71",
+        "sort": 335,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "WH",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "d01660f1-2a68-4a7f-884a-c614092f5717",
+      "text": "总工",
+      "iconCls": "icon-post",
+      "parentId": "52a0a7ba-7d82-40eb-be5a-343350732d83",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "ZG",
+        "status": 1
+      },
+      "children": [{
+        "id": "66863051-dd61-4814-b693-cb7ee84430c6",
+        "text": "黄丽芳",
+        "iconCls": "icon-man",
+        "parentId": "d01660f1-2a68-4a7f-884a-c614092f5717",
+        "sort": 336,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HLF",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "abb1b1b1-cae9-4bdb-9593-f35d4414e457",
+      "text": "职员",
+      "iconCls": "icon-post",
+      "parentId": "52a0a7ba-7d82-40eb-be5a-343350732d83",
+      "sort": 4,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "ZY",
+        "status": 1
+      },
+      "children": [{
+        "id": "2778393c-dd4f-4008-9fb9-c98d2a4373f8",
+        "text": "袁允清",
+        "iconCls": "icon-man",
+        "parentId": "abb1b1b1-cae9-4bdb-9593-f35d4414e457",
+        "sort": 337,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "YYQ",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "1f0558d7-c8f8-44a8-95b9-615debf8a5c8",
+    "text": "清城分局",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 26,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "QCFJ",
+      "status": 1
+    },
+    "children": [{
+      "id": "4ad64dad-df79-46bc-8af7-68ebc579c4fb",
+      "text": "清城分局收发文",
+      "iconCls": "icon-post",
+      "parentId": "1f0558d7-c8f8-44a8-95b9-615debf8a5c8",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "QCFJSFW",
+        "status": 1
+      },
+      "children": [{
+        "id": "9c1f4e79-bb1d-4466-af22-c9eedf7890d0",
+        "text": "清城分局收发文（国土）",
+        "iconCls": "icon-man",
+        "parentId": "4ad64dad-df79-46bc-8af7-68ebc579c4fb",
+        "sort": 338,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "QCFJSFW（GT）",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "002b1ea5-3550-45bf-a139-7894b9ee706f",
+        "text": "清城分局收发文（规划）",
+        "iconCls": "icon-man",
+        "parentId": "4ad64dad-df79-46bc-8af7-68ebc579c4fb",
+        "sort": 339,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "QCFJSFW（GH）",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "72a35092-0775-4643-88eb-44d8cceef03b",
+    "text": "清新分局",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 27,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "QXFJ",
+      "status": 1
+    },
+    "children": [{
+      "id": "a6958f1e-eb34-4c89-9335-b195ef7e2084",
+      "text": "清新分局收发文",
+      "iconCls": "icon-post",
+      "parentId": "72a35092-0775-4643-88eb-44d8cceef03b",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "QXFJSFW",
+        "status": 1
+      },
+      "children": [{
+        "id": "4c43100b-aa44-4c0f-aebd-37a181c03a95",
+        "text": "清新分局收发文（国土）",
+        "iconCls": "icon-man",
+        "parentId": "a6958f1e-eb34-4c89-9335-b195ef7e2084",
+        "sort": 339,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "QXFJSFW（GT）",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "9eefac92-14d5-4cd8-86c9-5dfe4b83477b",
+        "text": "清新分局收发文（规划）",
+        "iconCls": "icon-man",
+        "parentId": "a6958f1e-eb34-4c89-9335-b195ef7e2084",
+        "sort": 340,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "QXFJSFW（GH）",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "198e0604-e38d-4446-b9d8-f11452bb892f",
+    "text": "高新区分局",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 28,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "GXQFJ",
+      "status": 1
+    },
+    "children": [{
+      "id": "a3709af3-b8d6-4f2a-a5da-42e128098e0e",
+      "text": "高新区分局收发文",
+      "iconCls": "icon-post",
+      "parentId": "198e0604-e38d-4446-b9d8-f11452bb892f",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "GXQFJSFW",
+        "status": 1
+      },
+      "children": [{
+        "id": "4fd06ed2-9317-4ff1-af6a-44f4d2ddd922",
+        "text": "高新区分局收发文",
+        "iconCls": "icon-man",
+        "parentId": "a3709af3-b8d6-4f2a-a5da-42e128098e0e",
+        "sort": 340,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "GXQFJSFW",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "2c4da1da-e1a7-4499-a7b2-448bb3e66514",
+    "text": "团支部",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 30,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "TZB",
+      "status": 1
+    },
+    "children": [{
+      "id": "e24cc71d-db09-4ebc-a10d-5a8eca5a781b",
+      "text": "团支部分管领导",
+      "iconCls": "icon-post",
+      "parentId": "2c4da1da-e1a7-4499-a7b2-448bb3e66514",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "TZBFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "6cfdbf1c-6a68-4972-8a11-d0d7cc54bd7b",
+        "text": "童立定",
+        "iconCls": "icon-man",
+        "parentId": "e24cc71d-db09-4ebc-a10d-5a8eca5a781b",
+        "sort": 4,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TLD",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "fee9b46a-6ab2-48da-8263-490961a363cf",
+      "text": "书记",
+      "iconCls": "icon-post",
+      "parentId": "2c4da1da-e1a7-4499-a7b2-448bb3e66514",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "SJ",
+        "status": 1
+      },
+      "children": [{
+        "id": "e570ee38-6043-4cb6-bc01-88eb14beabf8",
+        "text": "黄敏华",
+        "iconCls": "icon-man",
+        "parentId": "fee9b46a-6ab2-48da-8263-490961a363cf",
+        "sort": 57,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "HMH",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "7c277a9d-ecb1-4a47-9ee8-7e25baa9fa24",
+    "text": "妇委会",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 30,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "FWH",
+      "status": 1
+    },
+    "children": [{
+      "id": "a858e36a-b6a5-4260-83df-5e109117350e",
+      "text": "妇委会分管领导",
+      "iconCls": "icon-post",
+      "parentId": "7c277a9d-ecb1-4a47-9ee8-7e25baa9fa24",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FWHFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "6cfdbf1c-6a68-4972-8a11-d0d7cc54bd7b",
+        "text": "童立定",
+        "iconCls": "icon-man",
+        "parentId": "a858e36a-b6a5-4260-83df-5e109117350e",
+        "sort": 4,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TLD",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "b7e6c46b-d6cc-4616-b597-f55bbf1a297f",
+      "text": "书记",
+      "iconCls": "icon-post",
+      "parentId": "7c277a9d-ecb1-4a47-9ee8-7e25baa9fa24",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "SJ",
+        "status": 1
+      },
+      "children": [{
+        "id": "845de891-a8ce-4336-aac3-3e386adeb68f",
+        "text": "陈彩娟",
+        "iconCls": "icon-man",
+        "parentId": "b7e6c46b-d6cc-4616-b597-f55bbf1a297f",
+        "sort": 137,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CCJ",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "ddcd2e4f-0fc3-47a6-a8df-e33c955544dc",
+    "text": "工会",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 30,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "GH",
+      "status": 1
+    },
+    "children": [{
+      "id": "1ffaab0f-47f2-4405-9c57-a4b9ad4fbd7f",
+      "text": "工会分管领导",
+      "iconCls": "icon-post",
+      "parentId": "ddcd2e4f-0fc3-47a6-a8df-e33c955544dc",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "GHFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "6cfdbf1c-6a68-4972-8a11-d0d7cc54bd7b",
+        "text": "童立定",
+        "iconCls": "icon-man",
+        "parentId": "1ffaab0f-47f2-4405-9c57-a4b9ad4fbd7f",
+        "sort": 4,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "TLD",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "id": "b5f6694d-b4c1-4523-a201-a4bdb43a3833",
+    "text": "市勘察测绘院",
+    "iconCls": "icon-dept",
+    "parentId": "47fbe92f-e702-44be-8587-af2f923d133c",
+    "sort": 30,
+    "attributes": {
+      "organType": 0,
+      "namePinYinHeadChar": "SKCCHY",
+      "status": 1
+    },
+    "children": [{
+      "id": "9775be0b-c595-4ebe-9626-4550daf48889",
+      "text": "勘察院分管领导",
+      "iconCls": "icon-post",
+      "parentId": "b5f6694d-b4c1-4523-a201-a4bdb43a3833",
+      "sort": 0,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "KCYFGLD",
+        "status": 1
+      },
+      "children": [{
+        "id": "1b270426-cda6-430a-9180-14546a3f6291",
+        "text": "古长森",
+        "iconCls": "icon-man",
+        "parentId": "9775be0b-c595-4ebe-9626-4550daf48889",
+        "sort": 7,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "GZS",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "a82d9bb7-411e-4fe6-8453-64de3de33ab3",
+      "text": "院长",
+      "iconCls": "icon-post",
+      "parentId": "b5f6694d-b4c1-4523-a201-a4bdb43a3833",
+      "sort": 1,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "YZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "64ff3f9a-4f53-497f-beff-3f7b28a56910",
+        "text": "毛弟水",
+        "iconCls": "icon-man",
+        "parentId": "a82d9bb7-411e-4fe6-8453-64de3de33ab3",
+        "sort": 341,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "MDS",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "684b70d3-e44e-498e-923f-5ba52aad8bb3",
+      "text": "副院长",
+      "iconCls": "icon-post",
+      "parentId": "b5f6694d-b4c1-4523-a201-a4bdb43a3833",
+      "sort": 2,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "FYZ",
+        "status": 1
+      },
+      "children": [{
+        "id": "07c7a6f6-8e9e-4d8f-be1c-da54e1ac54ec",
+        "text": "颜倚天",
+        "iconCls": "icon-man",
+        "parentId": "684b70d3-e44e-498e-923f-5ba52aad8bb3",
+        "sort": 342,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "YYT",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "ff96930b-58e4-47a0-892a-1d1c36639ea6",
+        "text": "陈东武",
+        "iconCls": "icon-man",
+        "parentId": "684b70d3-e44e-498e-923f-5ba52aad8bb3",
+        "sort": 343,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "CDW",
+          "status": 2
+        },
+        "children": []
+      }]
+    }, {
+      "id": "2beba66a-510c-4ab9-9057-f37c7190c71d",
+      "text": "职员",
+      "iconCls": "icon-post",
+      "parentId": "b5f6694d-b4c1-4523-a201-a4bdb43a3833",
+      "sort": 3,
+      "attributes": {
+        "organType": 1,
+        "namePinYinHeadChar": "ZY",
+        "status": 1
+      },
+      "children": [{
+        "id": "dabfe1b6-5df0-4681-8e3d-2551f97aaaa3",
+        "text": "张国宏",
+        "iconCls": "icon-man",
+        "parentId": "2beba66a-510c-4ab9-9057-f37c7190c71d",
+        "sort": 344,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "ZGH",
+          "status": 2
+        },
+        "children": []
+      }, {
+        "id": "2063e4de-54b7-4bb6-8f2f-5d638dac5c75",
+        "text": "李文峰",
+        "iconCls": "icon-man",
+        "parentId": "2beba66a-510c-4ab9-9057-f37c7190c71d",
+        "sort": 345,
+        "attributes": {
+          "organType": 10,
+          "namePinYinHeadChar": "LWF",
+          "status": 2
+        },
+        "children": []
+      }]
+    }]
+  }]
+}, {
+  "id": "372efac7-8f93-48cc-a229-343bc63148ce",
+  "text": "外部注册用户",
+  "iconCls": "icon-dept",
+  "sort": 4,
+  "attributes": {
+    "organCode": "A01",
+    "organType": 900,
+    "namePinYinHeadChar": "WBZCYH",
+    "status": 0
+  },
+  "children": []
+}, {
+  "id": "#1_0",
+  "text": "无部门人员",
+  "iconCls": "icon-blank",
+  "sort": 99999,
+  "attributes": {
+    "organType": 1,
+    "namePinYinHeadChar": "WBMRY",
+    "status": 1
+  },
+  "children": [{
+    "id": "34ff826d-ebab-4a76-8084-3497d116e1d8",
+    "text": "徐洁",
+    "iconCls": "icon-man",
+    "sort": 0,
+    "attributes": {
+      "organType": 10,
+      "namePinYinHeadChar": "XJ",
+      "status": 2
+    },
+    "children": []
+  }, {
+    "id": "e49fe5a8-b6fe-47c2-8c9e-419fb543f515",
+    "text": "李嘉炘",
+    "iconCls": "icon-man",
+    "sort": 0,
+    "attributes": {
+      "organType": 10,
+      "namePinYinHeadChar": "LJX",
+      "status": 2
+    },
+    "children": []
+  }, {
+    "id": "50510f8b-34b7-46ce-b727-748645658114",
+    "text": "雷倩文",
+    "iconCls": "icon-man",
+    "sort": 0,
+    "attributes": {
+      "organType": 10,
+      "namePinYinHeadChar": "LQW",
+      "status": 2
+    },
+    "children": []
+  }]
+}, {
+  "id": "#3",
+  "text": "所有角色",
+  "iconCls": "icon-blank",
+  "sort": 3,
+  "attributes": {
+    "link": [],
+    "organType": 3,
+    "namePinYinHeadChar": "SYJS",
+    "status": 1
+  },
+  "children": [{
+    "id": "24c2ae12-f978-4d3d-8b0e-f5a60f72e397",
+    "text": "局领导",
+    "iconCls": "icon-myrole",
+    "sort": 0,
+    "attributes": {
+      "organDescription": "收文需要处理：必须选用户",
+      "link": ["f232a964-261f-4fe8-8b92-380328bee682", "cd57cf4b-1bf2-4610-9f53-26d56a4d132f", "26a6eb8b-1fc8-4d51-8e54-c1354d6010e4", "f95da486-fc24-444a-9725-12b00f1e5384", "b4c6d488-5147-4f9f-94d6-99ede2619297", "a8ee19d3-5788-4c89-9ed6-ca96a2a17273", "c9d9bf7e-a35f-4bab-b83c-f5928d3a9cdf", "326515aa-aee4-4f53-b9e5-b00df93f523f", "6cfdbf1c-6a68-4972-8a11-d0d7cc54bd7b", "48fe2285-86ce-4941-a90f-3ca470b00812", "8be3a512-9c0e-49db-bf42-0b4eb142f3ae", "1b270426-cda6-430a-9180-14546a3f6291", "f03c5ebd-300e-4ace-9411-b796e5e835bd", "e9522306-5901-4c9c-a54e-eca714ffeac2", "00e50715-0543-43e0-a6fe-62a43ce00312"],
+      "organType": 2,
+      "namePinYinHeadChar": "JLD",
+      "status": 1
+    },
+    "children": []
+  }, {
+    "id": "9c3989e3-b7f5-4305-a315-883e6779d292",
+    "text": "分管领导",
+    "iconCls": "icon-myrole",
+    "sort": 1,
+    "attributes": {
+      "link": ["c18a0b90-92f8-4f3b-a56c-25a0654f9968", "7fe7ae76-acce-4c7a-b495-620c8e6d0a0a", "cd4a595d-e54e-4a60-bd3f-928450b402bd", "ef393667-6a37-4ad9-95f3-89739fcd9016", "b4c6d488-5147-4f9f-94d6-99ede2619297", "b4c6d488-5147-4f9f-94d6-99ede2619297", "a8ee19d3-5788-4c89-9ed6-ca96a2a17273", "a8ee19d3-5788-4c89-9ed6-ca96a2a17273", "c9d9bf7e-a35f-4bab-b83c-f5928d3a9cdf", "326515aa-aee4-4f53-b9e5-b00df93f523f", "1348ea40-c9a7-449e-aca7-aa6c2fafd043", "86c92b89-31b4-47e3-8d77-942b94cdc881", "6cfdbf1c-6a68-4972-8a11-d0d7cc54bd7b", "48fe2285-86ce-4941-a90f-3ca470b00812", "8be3a512-9c0e-49db-bf42-0b4eb142f3ae", "1b270426-cda6-430a-9180-14546a3f6291", "f03c5ebd-300e-4ace-9411-b796e5e835bd", "e9522306-5901-4c9c-a54e-eca714ffeac2", "00e50715-0543-43e0-a6fe-62a43ce00312", "cdf0f5a6-6ce1-47d2-9ca5-214ceb740e5b", "cf931725-4bf2-491d-abcb-6aac9c9ec6b5", "af7b0c7a-a3b5-48a3-9746-49d2a7619058", "eb468b41-bce7-4ed6-8757-805f77f80180", "74fa4763-4da6-4f87-8899-4fa9bca84eb9", "6df45c9e-9df3-491d-9eea-d756b71d137f", "aa209887-aa13-4be6-a806-e2f1b3c356da", "e68756a7-455a-426b-9f30-6661a3a003f0", "a7d447cd-d433-46e4-ae00-03448051134f", "6a3562d3-a8ed-400e-93f9-9a29330e1943", "527d1ae8-fee8-4212-a6d4-113a4c7e0d8a", "7a2b4848-974e-4989-a0cf-d1b51bbc948c", "b588b102-ae12-410c-88d8-0a6572a9e517", "f746c3e2-c647-449a-91c7-0f73818a1095", "c4c161a9-6fcb-41db-92fd-b15616e498fa", "145caf65-cc98-41ee-b7c3-515360c53cb2", "48de9ed1-421f-4f0b-b025-cd05ae9ffec0", "53e364a9-6500-49e0-8307-3d87ddb3040e", "9b0dd4b6-b79b-4d60-b4fb-006cb225d14c", "b8eebf0a-9348-4cc2-ad76-a40b60afd968", "8e414d9c-565b-4526-82c1-12f9d95665ba", "7fa0d6f3-5ea0-4306-9a79-87a76f5d928e", "f2d22cbd-02a9-4b01-966a-05a6dafbdfc1", "763df923-5dcc-452a-bff6-e05e586536c9", "3a2ca8ca-2c2f-45f7-84f6-bd0fe214fdd9", "a95849c4-c03a-49a7-9f72-a26b0aa9437b", "1ef35265-019a-4f7c-a712-b98caf7b33d6", "ddf29893-e292-4d54-aba5-e2c8527d1a06", "7ad836f2-c2d0-477f-99e7-56ddc50076e3", "0ed23f8b-c65b-419a-8705-a435aacd8d1a", "75dd94fc-c111-43a5-bcf6-38646664be0d", "c46d92ab-bb4f-4de0-be2b-573fc2bd6ebf", "665fe4ba-f232-48e4-b0c5-2c08c07154fb", "679b31e6-7404-40dd-aeab-d386bcd6301f"],
+      "organType": 2,
+      "namePinYinHeadChar": "FGLD",
+      "status": 2
+    },
+    "children": []
+  }, {
+    "id": "9935810f-ee5e-481d-a64a-37cfce6390a4",
+    "text": "办公室拟办",
+    "iconCls": "icon-myrole",
+    "sort": 2,
+    "attributes": {
+      "link": ["7fe7ae76-acce-4c7a-b495-620c8e6d0a0a", "cd4a595d-e54e-4a60-bd3f-928450b402bd", "cdf0f5a6-6ce1-47d2-9ca5-214ceb740e5b", "cf931725-4bf2-491d-abcb-6aac9c9ec6b5"],
+      "organType": 2,
+      "namePinYinHeadChar": "BGSNB",
+      "status": 2
+    },
+    "children": []
+  }, {
+    "id": "088657d9-874b-4963-aa56-7af30d0b97a6",
+    "text": "科室收文",
+    "iconCls": "icon-myrole",
+    "sort": 3,
+    "attributes": {
+      "link": ["4ad64dad-df79-46bc-8af7-68ebc579c4fb", "4ad64dad-df79-46bc-8af7-68ebc579c4fb", "a6958f1e-eb34-4c89-9335-b195ef7e2084", "a6958f1e-eb34-4c89-9335-b195ef7e2084", "a3709af3-b8d6-4f2a-a5da-42e128098e0e", "0a99bed2-4a97-4bd1-807c-432bbc7d435e", "0a99bed2-4a97-4bd1-807c-432bbc7d435e", "a16aa40d-d5ea-41f0-bf07-b14a0280ae1c", "a16aa40d-d5ea-41f0-bf07-b14a0280ae1c", "06f0de8e-a08f-4dd1-8752-1a86997ac57c", "06f0de8e-a08f-4dd1-8752-1a86997ac57c", "3b957ff3-b0d2-4fa3-9f26-1a2b1f7b33a6", "3b957ff3-b0d2-4fa3-9f26-1a2b1f7b33a6", "556ec17a-9b90-4b51-8168-05425f70e8c5", "556ec17a-9b90-4b51-8168-05425f70e8c5", "d64a24d7-6410-4aeb-816e-c180822d1b5c", "d64a24d7-6410-4aeb-816e-c180822d1b5c", "d1c08ff6-1657-4b9b-ac8e-262a00aec014", "d1c08ff6-1657-4b9b-ac8e-262a00aec014", "a82d9bb7-411e-4fe6-8453-64de3de33ab3", "a82d9bb7-411e-4fe6-8453-64de3de33ab3", "aa14b350-700f-4518-86d6-94c1318c5fa0", "aa14b350-700f-4518-86d6-94c1318c5fa0", "d251e5a3-6d4e-4141-b17b-9ee234cfeba4", "d251e5a3-6d4e-4141-b17b-9ee234cfeba4", "b7e6c46b-d6cc-4616-b597-f55bbf1a297f", "7fe7ae76-acce-4c7a-b495-620c8e6d0a0a", "7fe7ae76-acce-4c7a-b495-620c8e6d0a0a", "13e002f3-8867-4ab1-af69-33789b11d6b2", "13e002f3-8867-4ab1-af69-33789b11d6b2", "32ba9e60-e27c-4a16-ab31-62886b880721", "32ba9e60-e27c-4a16-ab31-62886b880721", "4f9d0961-fc76-48bd-818c-f5999cfea156", "4f9d0961-fc76-48bd-818c-f5999cfea156", "d0756199-fed5-49b1-85ec-6b62758d6095", "d0756199-fed5-49b1-85ec-6b62758d6095", "32ff3855-9027-410a-b12d-8055d10167fa", "32ff3855-9027-410a-b12d-8055d10167fa", "ae1da1cd-9514-46b3-b4c0-76ab2b398def", "d46cf635-d639-4952-830e-9f023b26045b", "d46cf635-d639-4952-830e-9f023b26045b", "f1eebeea-74b9-4017-8ce1-5392078c8cd0", "f1eebeea-74b9-4017-8ce1-5392078c8cd0", "1b66867f-4ddb-4ee5-a5e2-726a6ba552ba", "1b66867f-4ddb-4ee5-a5e2-726a6ba552ba", "db43c9f3-5277-4704-bb51-532160bbc237", "5d44b0e4-1d92-467c-a128-ca7e83803bb2", "5d44b0e4-1d92-467c-a128-ca7e83803bb2", "2c8b1f5a-bf45-4faf-8c7d-888820532173", "cdf0f5a6-6ce1-47d2-9ca5-214ceb740e5b", "1f0558d7-c8f8-44a8-95b9-615debf8a5c8", "72a35092-0775-4643-88eb-44d8cceef03b", "198e0604-e38d-4446-b9d8-f11452bb892f", "10c0521e-44f6-4615-a256-32f54e810003", "9d643504-0567-403a-b9b5-c40f3b7cd669", "3d21a618-5445-4271-bf22-6eacf5eac205", "9547f855-c2cf-436b-87ae-17bce98466cc", "de37b3d3-10bf-4616-a5bb-80fdab9ec535", "202b8806-eff3-430b-a95b-4686efa65082", "bcf3ba82-2f03-48bc-8244-253412aa0258", "1d2508c7-329b-4b71-a135-97cb9b2fed4b", "b2b7ce05-c81e-4363-a1fa-b89b197642da", "aa81da80-dc42-4b50-9039-83067859fb1c", "b8348d0a-dbeb-40d3-8ec5-5a818a58d951", "8fd3f6fc-45db-4ade-81b7-443cc521fa23", "e3cfe5a3-ccfd-4fb4-b6d7-7101ab9eaf88", "68eebbc9-87a5-405c-8bdd-d6c00ff0413a", "b4b232c5-d4ee-498d-a850-5b401db98480", "9fea6bae-75b0-4d39-8f04-dc4e12a67532", "07d8cf4b-bc43-4e00-ab05-aafafe982738", "3be6febf-3eb5-4db4-96de-2749728b758f", "e00139af-72d8-4084-83e4-f1a03fabc1d3", "e7af38cd-e0a2-4cde-ade7-222fd5905153", "90e93741-a616-4a0b-b125-2d78af449d54", "9673bda2-6f27-4a96-8091-7d4f2e28fb8d", "52984f47-ec83-45cc-b7ea-d326ce6cafb0", "9c1f4e79-bb1d-4466-af22-c9eedf7890d0", "002b1ea5-3550-45bf-a139-7894b9ee706f", "4c43100b-aa44-4c0f-aebd-37a181c03a95", "9eefac92-14d5-4cd8-86c9-5dfe4b83477b", "4fd06ed2-9317-4ff1-af6a-44f4d2ddd922", "64ff3f9a-4f53-497f-beff-3f7b28a56910"],
+      "organType": 2,
+      "namePinYinHeadChar": "KSSW",
+      "status": 1
+    },
+    "children": []
+  }, {
+    "id": "91d42f82-a6b2-49dc-a0b2-6b703d2f1490",
+    "text": "科室负责人",
+    "iconCls": "icon-myrole",
+    "sort": 4,
+    "attributes": {
+      "link": ["0a99bed2-4a97-4bd1-807c-432bbc7d435e", "a16aa40d-d5ea-41f0-bf07-b14a0280ae1c", "06f0de8e-a08f-4dd1-8752-1a86997ac57c", "3b957ff3-b0d2-4fa3-9f26-1a2b1f7b33a6", "556ec17a-9b90-4b51-8168-05425f70e8c5", "d64a24d7-6410-4aeb-816e-c180822d1b5c", "d1c08ff6-1657-4b9b-ac8e-262a00aec014", "a82d9bb7-411e-4fe6-8453-64de3de33ab3", "d251e5a3-6d4e-4141-b17b-9ee234cfeba4", "7fe7ae76-acce-4c7a-b495-620c8e6d0a0a", "13e002f3-8867-4ab1-af69-33789b11d6b2", "32ba9e60-e27c-4a16-ab31-62886b880721", "4f9d0961-fc76-48bd-818c-f5999cfea156", "d0756199-fed5-49b1-85ec-6b62758d6095", "32ff3855-9027-410a-b12d-8055d10167fa", "ae1da1cd-9514-46b3-b4c0-76ab2b398def", "f6671e31-a15a-47f7-be5a-8e87f2c15b66", "d46cf635-d639-4952-830e-9f023b26045b", "f1eebeea-74b9-4017-8ce1-5392078c8cd0", "1b66867f-4ddb-4ee5-a5e2-726a6ba552ba", "cd4a595d-e54e-4a60-bd3f-928450b402bd", "e616593b-17dc-4be1-b1e2-89587f95d80a", "d2ab910d-273d-42f0-81e1-a1a3fc6ce34b", "684b70d3-e44e-498e-923f-5ba52aad8bb3", "189266a4-0fc3-427e-850e-c9a19f6f54dd", "e59f2366-0126-4388-bcf7-a04872334a71", "14275741-221e-4433-94f6-e6539b38e500", "db43c9f3-5277-4704-bb51-532160bbc237", "42758962-c87f-47a9-bce3-d7b4a3d140d5", "5d44b0e4-1d92-467c-a128-ca7e83803bb2", "1298746c-b3fa-4590-9f10-316ba5ebc740", "b15eaec4-b29b-4813-a45e-c6b93945922d", "4c2a360d-5316-4639-8ef4-392785b1f206", "836a76e9-9361-4126-9670-11e1b860c4e6", "3b30f4b8-f287-4594-b5ad-146d8392ad32", "fa465231-9cd1-4888-bd9a-b6c429dee3b4", "80bd6beb-045d-419e-9639-1543cca1e707", "2c8b1f5a-bf45-4faf-8c7d-888820532173", "73f36e7a-7b7e-4f3d-94d8-107557989d2d", "238d540d-705d-423d-9b8a-b4d416aadca1", "8d213443-d0bd-419f-aaa6-2683e812f640", "0b0e05ec-ae54-4a7f-9c41-422efe0eaa35", "cdf0f5a6-6ce1-47d2-9ca5-214ceb740e5b", "cf931725-4bf2-491d-abcb-6aac9c9ec6b5", "10c0521e-44f6-4615-a256-32f54e810003", "04ffe79f-8010-42fc-99c8-86937cc17188", "9d643504-0567-403a-b9b5-c40f3b7cd669", "e570ee38-6043-4cb6-bc01-88eb14beabf8", "a0c5d2b2-84a3-4e8f-bbfe-decd0b28da47", "3d21a618-5445-4271-bf22-6eacf5eac205", "f973f405-b901-402f-9672-18b9a870ec9b", "9547f855-c2cf-436b-87ae-17bce98466cc", "e6a38191-6c1c-4fa7-8166-78b4a1b9d29c", "de37b3d3-10bf-4616-a5bb-80fdab9ec535", "83db1369-b803-4b63-b98e-5777a01dc403", "06c4d9ea-1be2-46a1-8267-5b6c855e3ac8", "bcf3ba82-2f03-48bc-8244-253412aa0258", "845de891-a8ce-4336-aac3-3e386adeb68f", "52cfeb22-6074-4de9-a70c-ef2d0f683b48", "b2b7ce05-c81e-4363-a1fa-b89b197642da", "a2bbe627-33cd-4a75-8ef2-238834e7bd83", "aa81da80-dc42-4b50-9039-83067859fb1c", "20c1df79-24d2-48d0-9aae-25d648d693eb", "b8348d0a-dbeb-40d3-8ec5-5a818a58d951", "f38eebbd-7191-46ec-b3b9-10859e20920e", "8fd3f6fc-45db-4ade-81b7-443cc521fa23", "e3cfe5a3-ccfd-4fb4-b6d7-7101ab9eaf88", "4857948d-caef-428f-a2f1-530fea9dd0e1", "68eebbc9-87a5-405c-8bdd-d6c00ff0413a", "e7145017-5c30-44ea-a338-5716e1e60ab6", "b4b232c5-d4ee-498d-a850-5b401db98480", "b2ff11b6-8b81-4d1f-ba30-9440988bf1e4", "9fea6bae-75b0-4d39-8f04-dc4e12a67532", "80316a38-f254-4173-a9bb-2942f0b5b1cd", "dce844ae-8e48-492e-a2a8-f7267f78868d", "07d8cf4b-bc43-4e00-ab05-aafafe982738", "42b3e5a5-d186-4c26-8143-55bf0a5a01de", "01b55dba-d532-4baf-b1c8-9d218d035db6", "26dcca0a-18a1-46a8-a6a3-cdf6798578a5", "e00139af-72d8-4084-83e4-f1a03fabc1d3", "63c902c6-3f26-4396-9640-63ef8dc551cb", "b852e20c-b16c-4bd1-8f15-3346bfcce8c2", "67ceefc6-0e3c-4dfc-aaac-2c460d55af15", "e7af38cd-e0a2-4cde-ade7-222fd5905153", "d4de8810-6b1c-48a7-a7a0-4e4ecef329eb", "90e93741-a616-4a0b-b125-2d78af449d54", "9673bda2-6f27-4a96-8091-7d4f2e28fb8d", "52984f47-ec83-45cc-b7ea-d326ce6cafb0", "e01f668f-9e21-4505-a690-d58f2ff3f5df", "0789b9f3-7f8a-4c83-a614-d4c3ee54b1dd", "64ff3f9a-4f53-497f-beff-3f7b28a56910", "07c7a6f6-8e9e-4d8f-be1c-da54e1ac54ec", "ff96930b-58e4-47a0-892a-1d1c36639ea6"],
+      "organType": 2,
+      "namePinYinHeadChar": "KSFZR",
+      "status": 1
+    },
+    "children": []
+  }, {
+    "id": "ff2478b0-241c-4097-a770-7999a10c867d",
+    "text": "收文登记",
+    "iconCls": "icon-myrole",
+    "sort": 5,
+    "attributes": {
+      "link": ["eb468b41-bce7-4ed6-8757-805f77f80180", "7a2b4848-974e-4989-a0cf-d1b51bbc948c"],
+      "organType": 2,
+      "namePinYinHeadChar": "SWDJ",
+      "status": 1
+    },
+    "children": []
+  }, {
+    "id": "63692143-2657-41b4-b312-bf462acdd860",
+    "text": "办公室收文",
+    "iconCls": "icon-myrole",
+    "parentId": "ef393667-6a37-4ad9-95f3-89739fcd9016",
+    "sort": 6,
+    "attributes": {
+      "link": ["cd4a595d-e54e-4a60-bd3f-928450b402bd", "cf931725-4bf2-491d-abcb-6aac9c9ec6b5", "eb468b41-bce7-4ed6-8757-805f77f80180", "74fa4763-4da6-4f87-8899-4fa9bca84eb9", "6df45c9e-9df3-491d-9eea-d756b71d137f", "aa209887-aa13-4be6-a806-e2f1b3c356da", "e68756a7-455a-426b-9f30-6661a3a003f0", "a7d447cd-d433-46e4-ae00-03448051134f", "7a2b4848-974e-4989-a0cf-d1b51bbc948c", "b8eebf0a-9348-4cc2-ad76-a40b60afd968", "8e414d9c-565b-4526-82c1-12f9d95665ba", "c46d92ab-bb4f-4de0-be2b-573fc2bd6ebf"],
+      "organType": 2,
+      "namePinYinHeadChar": "BGSSW",
+      "status": 1
+    },
+    "children": []
+  }, {
+    "id": "75fc69a0-8e74-4906-ae13-dfd8c72f739e",
+    "text": "平台管理员",
+    "iconCls": "icon-sysrole",
+    "sort": 7,
+    "attributes": {
+      "link": ["00000001-0000-0000-0010-000000000001"],
+      "organType": 3,
+      "namePinYinHeadChar": "PTGLY",
+      "status": 2
+    },
+    "children": []
+  }]
+}]

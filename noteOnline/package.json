@@ -1,0 +1,26 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "docsify serve --open",
+    "summary": "book sm -r ibase -o ./sidebar.md -t ''",
+    "summary-dir": "book sm -r 版本更新 -o ./版本更新/sidebar.md -t 'titleName'",
+    "summary-dir2": "book sm -r 笔记说明 -o ./笔记说明/sidebar.md -t 'titleName'"
+  },
+  "dependencies": {
+    "docsify": "^4.8.6",
+    "github-webhook-handler": "^0.7.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gitbook-summary": "^1.2.2"
+  }
+}

@@ -1,0 +1,101 @@
+[{
+  "id": "00000001-0000-0000-0010-000000000001",
+  "text": "共享文件",
+  "children": [{
+    "id": "dc792782-9a38-412e-ab0f-d0f92a5673e9",
+    "text": "张三",
+    "children": [{
+      "id": "dc792782-9a38-412e-ab0f-d0f92a5673e9",
+      "text": "@string",
+      "fileAddress": "法人身份证.tif|%%jobfiles%/201809/201809040043/7b036561-bf53-47ff-881c-168e41a12f9f.tif",
+      "children": []
+    }]
+  }, {
+    "id": "@id",
+    "text": "李四",
+    "children": [{
+      "id": "@id",
+      "text": "@name",
+      "children": [{
+        "id": "@id",
+        "text": "@string",
+        "fileAddress": "法人身份证.tif|%%jobfiles%/201809/201809040043/7b036561-bf53-47ff-881c-168e41a12f9f.tif",
+        "children": []
+      }]
+    }, {
+      "id": "dc792782-9a38-412e-ab0f-d0f92a5673e9",
+      "text": "@string",
+      "fileAddress": "法人身份证.tif|%%jobfiles%/201809/201809040043/7b036561-bf53-47ff-881c-168e41a12f9f.tif",
+      "children": []
+    }]
+  }, {
+    "id": "00000001-0000-0000-0010-0000000000010",
+    "text": "当前用户名",
+    "fileAddress": "法人身份证.tif|%%jobfiles%/201809/201809040043/7b036561-bf53-47ff-881c-168e41a12f9f.tif",
+    "children": [{
+      "id": "@id",
+      "text": "@name",
+      "parentId": "00000001-0000-0000-0010-000000000001",
+      "children": [{
+        "id": "@id",
+        "text": "@name",
+        "parentId": "@id",
+        "children": [{
+          "id": "@id",
+          "text": "@string",
+          "parentId": "@id",
+          "fileAddress": "法人身份证.tif|%%jobfiles%/201809/201809040043/7b036561-bf53-47ff-881c-168e41a12f9f.tif",
+          "children": []
+        }]
+      }]
+    }, {
+      "id": "@id",
+      "text": "@name",
+      "parentId": "00000001-0000-0000-0010-000000000001",
+      "children": [{
+        "id": "@id",
+        "text": "@name",
+        "parentId": "@id",
+        "children": [{
+          "id": "@id",
+          "text": "@string",
+          "parentId": "@id",
+          "fileAddress": "法人身份证.tif|%%jobfiles%/201809/201809040043/7b036561-bf53-47ff-881c-168e41a12f9f.tif",
+          "children": []
+        }]
+      }]
+    }, {
+      "id": "@id",
+      "text": "@name",
+      "parentId": "00000001-0000-0000-0010-000000000001",
+      "children": [{
+        "id": "@id",
+        "text": "@name",
+        "parentId": "@id",
+        "children": [{
+          "id": "@id",
+          "text": "@string",
+          "parentId": "@id",
+          "fileAddress": "法人身份证.tif|%%jobfiles%/201809/201809040043/7b036561-bf53-47ff-881c-168e41a12f9f.tif",
+          "children": []
+        }]
+      }]
+    }, {
+      "id": "@id",
+      "text": "@name",
+      "parentId": "00000001-0000-0000-0010-000000000001",
+      "children": [{
+        "id": "@id",
+        "text": "@name",
+        "parentId": "@id",
+        "children": [{
+          "id": "@id",
+          "text": "@string",
+          "parentId": "@id",
+          "fileAddress": "法人身份证.tif|%%jobfiles%/201809/201809040043/7b036561-bf53-47ff-881c-168e41a12f9f.tif",
+          "children": []
+        }]
+      }]
+    }]
+  }]
+}]
