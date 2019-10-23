@@ -23,10 +23,10 @@
   * [01-开发工具](Java/07-开发工具/01-idea/01-idea.md)
   
 - 98-代码规范
-   * [01-代码规范](Java/98-代码规范/01-linux/01-linux.md)
+   * [01-代码规范](Java/98-代码规范/01-代码规范/01-代码规范.md)
    
 - 99-语言学习postMan
-  * [01-linux](Java/99-语言学习postMan/01-linux/01-linux.md)
+  * [01-linux](Java/99-语言学习/01-linux/01-linux.md)
   * [02-bat脚本](Java/99-语言学习/02-bat脚本/02-bat脚本.md)
   
 - 100-模板
