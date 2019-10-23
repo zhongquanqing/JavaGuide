@@ -5,7 +5,7 @@
     Interceptor主要就是用来做请求的拦截。
     
 ### 1.2.1  进入谷歌商店
-<img src="https://raw.githubusercontent.com/zhongquanqing/JavaGuide/master/noteOnline/Java/01-安装/image/01-postMan/01-扩展程序.png" width="100%"></image>
+![进入谷歌商店](image/01-spring注解/01-扩展程序.png)
 
     注：其中的Filter requests参数可以自己配置，如：localhost:8081表示只拦截本地的8081
     端口的请求。默认的配置.*配置拦截所有请求，可以使用默认配置不用修改
@@ -17,7 +17,8 @@
 ## 1.4 拦截器配置
     在Postman中启用Interceptor，如下图：
 
-<img src="https://raw.githubusercontent.com/zhongquanqing/JavaGuide/master/noteOnline/Java/01-安装/image/01-postMan/02-Interceptor.png" width="100%"></image>
+![进入谷歌商店](image/01-spring注解/02-Interceptor.png)
+
 
     至此通过Postman发送需要登录或授权的URL请求时已配置完成
 
