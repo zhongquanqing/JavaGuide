@@ -1,27 +1,22 @@
-# 第一章   POSTMAN开发工具安装
-## 1.1第一步安装：谷歌助手安装
+# 第一章 Monogdb
+## 1.1. Monogdb数据库迁移
 
-## 1.2.安装Postman Interceptor插件
-    Interceptor主要就是用来做请求的拦截。
+###1.1.1.Liunx服务器monogdb数据库迁移
+    1.root用户登录服务器；
+    2.切换到monogdb的bin目录：cd /usr/local/mongodb，该目录按照实际目录进行调整；
+    3.执行导出命令，执行命令前，需切换到monogdb的bin目录：mongodump -d mongodb -o /opt/mongo_ibase20181101
+    备注：mongodump导出命令，mongodb是数据库名称（数据库名称要区分大小写），/opt/mongo_ibase20181101导出文件路径。
+    4.执行导入命令，执行命令前，需切换到monogdb的bin目录（导入前，必须数据库已存在）：mongorestore -d mongodb /opt/mongo_ibase20181101
+    备注：mongorestore导入命令，mongodb是数据库名称（数据库名称要区分大小写），/opt/mongo_ibase20181101导出文件路径。导入前，一定要确保mongodb已存在
     
-### 1.2.1  进入谷歌商店
-![进入谷歌商店](image/1/01-扩展程序.png)
-
-    注：其中的Filter requests参数可以自己配置，如：localhost:8081表示只拦截本地的8081
-    端口的请求。默认的配置.*配置拦截所有请求，可以使用默认配置不用修改
-
-## 1.3 登录系统
-    Interceptor配置完后，在浏览器中正常登录被测试的系统(这很重要)。只需要按正常  
-    的流程登录即可。
-    
-## 1.4 拦截器配置
-    在Postman中启用Interceptor，如下图：
-
-![进入谷歌商店](image/1/02-Interceptor.png)
-
-
-    至此通过Postman发送需要登录或授权的URL请求时已配置完成
-
+### 1.1.2.Windows服务器monogdb数据库迁移
+    1.administrator用户登录服务器；
+    2.cmd进入dos环境；
+    3.切换到monogdb的bin目录：切换到monogdb的bin目录，该目录按照实际目录进行调整；
+    执行导出命令，执行命令前，需切换到monogdb的bin目录：mongodump -d ysl -o D:\opt\20190117
+    备注：mongodump导出命令，ysl是数据库名称（数据库名称要区分大小写），D:\opt\20190117导出文件路径。
+    4.执行导入命令，执行命令前，需切换到monogdb的bin目录（导入前，必须数据库已存在）：mongorestore -d ysl D:\opt\20190117
+    备注：mongodump导出命令，ysl是数据库名称（数据库名称要区分大小写），D:\opt\20190117导出文件路径。
     
 
     

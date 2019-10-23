@@ -1,5 +1,11 @@
-# 第一章   POSTMAN开发工具安装
-## 1.1第一步安装：谷歌助手安装
+# 第一章 Maven的概述
+## 1.1.基本命令
+###1.1.1.编译
+    mvn install
+###1.1.2.全编译
+    mvn -T 4C -DskipTests clean install
+###1.1.3.跳过测试编译
+    mvn package -Dmaven.test.skip=true  跳过测试编译
 
 ## 1.2.安装Postman Interceptor插件
     Interceptor主要就是用来做请求的拦截。

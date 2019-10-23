@@ -1,27 +1,28 @@
-# 第一章   POSTMAN开发工具安装
-## 1.1第一步安装：谷歌助手安装
+# 概述
+# 第一章 Spring注解的认识
+## 1.1.注解的初步认识
+### 1.1.1.@controller
+    标注控制层
 
-## 1.2.安装Postman Interceptor插件
-    Interceptor主要就是用来做请求的拦截。
-    
-### 1.2.1  进入谷歌商店
-![进入谷歌商店](image/01-spring注解/01-扩展程序.png)
+### 1.1.2.@service
+    标注服务层，进行业务的逻辑处理
+### 1.1.3.@repository
+    标注数据访问层，也可以说用于标注数据访问组件，即DAO组件
+### 1.1.4.@component 
+    把普通pojo实例化到spring容器中，相当于配置文件中的 
+    <bean id="" class=""/>
+### 1.1.5.@Transactional
+    使用位置：
+    1、用在接口或接口方法上，AOP必须是接口代理方式。不推荐	
+    2、可以使用在类以及类方法上。推荐
+    3、注解应该只被应用到 public 方法上。其它级别（ protected ，private无效）
+    4、只有来自外部的方法调用，事务才生效。（不能由本地方法直接调用）
+    回滚控制：
+    1、默认配置下，方法体只有在抛出RuntimeException或其子类时，才回滚事务。
+    2、可以指定哪些异常回滚： @Transactional(rollbackFor=XxxException.class)
+    3、可以指定哪些异常不回滚： @Transactional(noRollbackFor=XxxException.class)
 
-    注：其中的Filter requests参数可以自己配置，如：localhost:8081表示只拦截本地的8081
-    端口的请求。默认的配置.*配置拦截所有请求，可以使用默认配置不用修改
-
-## 1.3 登录系统
-    Interceptor配置完后，在浏览器中正常登录被测试的系统(这很重要)。只需要按正常  
-    的流程登录即可。
-    
-## 1.4 拦截器配置
-    在Postman中启用Interceptor，如下图：
-
-![进入谷歌商店](image/01-spring注解/02-Interceptor.png)
-
-
-    至此通过Postman发送需要登录或授权的URL请求时已配置完成
-
+# 第二章 class
     
 
     
