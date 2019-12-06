@@ -38,7 +38,98 @@
     alter table JOBA_SMSMSG drop column MTITLE1;
 
 
+### 1.6 oracle数据定时任务检查表空间，总大小超过30G自动附加DBF文件
+    一、在dba用户下创建存储过程（如system）
+    create or replace procedure auto_extend_tablespace AS
+      v_sql         VARCHAR2(500);
+      v_n           number(2);
+      v_name        VARCHAR2(64);
+      hand_char     varchar2(1);
+      datafile_path VARCHAR2(64);
+      temp_num      varchar2(4);
+      temp_filename varchar2(16);
+    BEGIN
+      for x in (select t.tablespace_name,
+                       sum(t.bytes) / 1024 / 1024 totalspace,
+                       count(1) v_n
+                  from dba_data_files t
+                 group by t.tablespace_name) loop
+        --表空间总大小大于或者等于30G 自动增加dbf文件 30720
+        if (x.totalspace >= 30720 * v_n) then
+          --取到文件名的最后编号
+          select to_char(count(*) + 1)
+            into temp_num
+            from dba_data_files
+           where tablespace_name = x.tablespace_name;
+          --构造数据文件名称的部分，例如要新加的数据文件是 ysjl003.dbf 该语句构造出ysjl003 这部分
+          select x.tablespace_name || lpad(temp_num, 2, '0')
+            into temp_filename
+            from dual;
+          select FILE_NAME
+            into v_name
+            from (select *
+                    from dba_data_files
+                   where tablespace_name = x.tablespace_name
+                   order by file_id desc)
+           where rownum = 1;
+          --判断第一个字符是否是 "/"--linux下数据文件的开头
+          select substr(v_name, 1, 1) into hand_char from dual;
+          if hand_char = '/' then
+            --linux 下 datafile_path :='/'; --先构造LINUX的文件位置的 开头 '/'
+            -- +1 linux下不能有这个+1 否则取到的位置不对 )
+            for i in (select regexp_substr(v_name, '([^(\\|\/)]+)', 1, level) part_path
+                        from dual
+                      connect by level < (length(v_name) -
+                                 length(replace(v_name, '/', '')))) loop
+              select datafile_path || i.part_path || '/'
+                into datafile_path
+                from dual;
+            end loop;
+            v_sql := 'alter tablespace ' || x.tablespace_name ||
+                     ' add datafile ''' || datafile_path || temp_filename ||
+                     '.dbf' ||
+                     ''' SIZE 512M AUTOEXTEND ON NEXT 256M MAXSIZE UNLIMITED';
+            --dbms_output.put_line(v_sql);
+            execute immediate v_sql;
+            --每次内循环完 初始化一次
+            datafile_path := '/';
+          else
+            --window 下
+            for i in (select regexp_substr(v_name, '([^(\\|\/)]+)', 1, level) part_path
+                        from dual
+                      connect by level < (length(v_name) -
+                                 length(replace(v_name, '\', ''))) + 1) loop
+              select datafile_path || i.part_path || '\'
+                into datafile_path
+                from dual;
+            end loop;
+            v_sql := 'alter tablespace ' || x.tablespace_name ||
+                     ' add datafile ''' || datafile_path || temp_filename ||
+                     '.dbf' ||
+                     ''' SIZE 512M AUTOEXTEND ON NEXT 256M MAXSIZE UNLIMITED';
+            dbms_output.put_line(v_sql);
+            execute immediate v_sql;
+            --每次内循环完 初始化一次
+            datafile_path := null;
+          end if;
+        end if;
+      end loop;
+    exception
+      when others then
+        rollback;
+    END;
 
+#### 1.6.2在dba用户下创建定时任务（如system）
+      
+      --增加一个job
+        declare  
+          tm_job number;  
+        begin  
+          sys.dbms_job.submit(tm_job, --任务名称 自动生成 是整形
+                              'AUTO_EXTEND_TABLESPACE;',--执行的过程名 
+                              sysdate,--执行时间  
+                              'TRUNC(sysdate+1)+22/24');--下次执行时间 每天晚上10点
+        end;  
     
 
     
