@@ -2216,8 +2216,7 @@ marked.parse = marked;
 
 var prism = createCommonjsModule(function (module) {
 /* **********************************************
-     Begin prism-core.js
-********************************************** */
+     Begin prism-core.js************* */
 
 var _self = (typeof window !== 'undefined')
 	? window   // if in browser
@@ -2779,8 +2778,7 @@ if (typeof commonjsGlobal !== 'undefined') {
 
 
 /* **********************************************
-     Begin prism-markup.js
-********************************************** */
+     Begin prism-markup.js************* */
 
 Prism.languages.markup = {
 	'comment': /<!--[\s\S]*?-->/,
@@ -2841,8 +2839,7 @@ Prism.languages.svg = Prism.languages.markup;
 
 
 /* **********************************************
-     Begin prism-css.js
-********************************************** */
+     Begin prism-css.js************* */
 
 Prism.languages.css = {
 	'comment': /\/\*[\s\S]*?\*\//,
@@ -2898,8 +2895,7 @@ if (Prism.languages.markup) {
 }
 
 /* **********************************************
-     Begin prism-clike.js
-********************************************** */
+     Begin prism-clike.js************* */
 
 Prism.languages.clike = {
 	'comment': [
@@ -2934,8 +2930,7 @@ Prism.languages.clike = {
 
 
 /* **********************************************
-     Begin prism-javascript.js
-********************************************** */
+     Begin prism-javascript.js************* */
 
 Prism.languages.javascript = Prism.languages.extend('clike', {
 	'keyword': /\b(?:as|async|await|break|case|catch|class|const|continue|debugger|default|delete|do|else|enum|export|extends|finally|for|from|function|get|if|implements|import|in|instanceof|interface|let|new|null|of|package|private|protected|public|return|set|static|super|switch|this|throw|try|typeof|var|void|while|with|yield)\b/,
@@ -2996,8 +2991,7 @@ Prism.languages.js = Prism.languages.javascript;
 
 
 /* **********************************************
-     Begin prism-file-highlight.js
-********************************************** */
+     Begin prism-file-highlight.js************* */
 
 (function () {
 	if (typeof self === 'undefined' || !self.Prism || !self.document || !document.querySelector) {

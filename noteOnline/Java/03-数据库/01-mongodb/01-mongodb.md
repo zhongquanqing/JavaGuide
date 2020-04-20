@@ -131,9 +131,173 @@
      db.users.deleteMany({"$and" : [ {"age" : {"$gt": 8}} , {"age" : {"$lt" : 25}}]})
 
 ### 1.2.3.查询选择器
-|运算符类型|运算符|描述|
-|:----:|:---:|:---:|
-|青青河边草|2019年10月21日|2222
-|青青河边草|
+<table>
+  	<tr>
+		<td>运算符类型</td>
+		<td>运算符</td>
+		<td>描述</td>
+	<tr>
+	<tr>
+		<td rowspan="10">范围</td>
+	<tr>
+	<tr>
+		<td>$eq</td>
+		<td>等于</td>              		
+	</tr>
+	<tr>
+        <td>$lt</td>
+        <td>小于</td>    
+	</tr>
+	<tr>
+	    <td>$gt</td>
+        <td>大于</td> 
+	</tr>
+	<tr>
+    	 <td>$lte</td>
+         <td>小于等于</td> 
+    </tr>
+    <tr>
+    	<td>$gte</td>
+    	<td>大于等于</td>              		
+    </tr>
+    <tr>
+        <td>$in</td>
+        <td>判断元素是否在指定的集合范围里</td>    
+    </tr>
+    <tr>
+    	<td>$all</td>
+        <td>判断数组中是否包含某几个元素,无关顺序</td> 
+    </tr>
+    <tr>
+        <td>$nin</td>
+        <td>判断元素是否不在指定的集合范围里</td> 
+    </tr>
 
+</table>
+
+
+	布尔运算
+    $not	不匹配结果
+    $or	有一个条件成立则匹配
+    $nor	所有条件都不匹配
+    $and	所有条件都必须匹配
+    $exists	判断元素是否存在
+    其他	.	子文档匹配
+    $regex	正则表达式匹配
+    
+#### 1.2.2.2 查询选择器实战
+
+    1.查询姓名为lison、mark和james这个范围的人
+    db.users.find({"username":{"$in":["lison", "mark", "james"]}}).pretty()
+    2.判断文档有没有length字段
+    db.users.find({"lenght":{"$exists":true}}).pretty()
+    3.查询高度小于1.77或者没有身高的人
+    db.users.find({"lenght":{"$not":{"$gte":1.77}}}).pretty()
+
+#### 1.2.2.2 查询选择
+    映射
+    1.字段选择并排除其他字段
+    db.users.find({},{'username':1})
+    2.字段排除
+    db.users.find({},{'username':0})
+   
+    排序
+    1.按照username排序
+    sort()：db.users.find().sort({"username":1}).pretty()
+    1：升序   -1：降序
+    
+    跳过和限制
+    1.skip(n)：跳过n条数据
+    2.limit(n)：限制n条数据
+    db.users.find().sort({"username":1}).limit(2).skip(2)
+    
+    查询唯一值
+    distinct()：查询指定字段(username)的唯一值
+    e.g：db.users.distinct("username")
+    
+### 1.2.3 字符串数组选择查询
+    1.数组单元素查询
+     查询数组中包含"蜘蛛侠"
+     db.users.find({"favorites.movies":"蜘蛛侠"})
+       
+    
+    2.数组精确查找
+    查询数组等于[ “杀破狼2”, “战狼”, “雷神1” ]的文档，严格按照数量、顺序；
+    db.users.find({"favorites.movies":[ "杀破狼2", "战狼", "雷神1" ]},{"favorites.movies":1})
+    
+    3.数组多元素查询
+    1)查询数组包含[“雷神1”, “战狼” ]的文档，跟顺序无关，跟数量有关
+    db.users.find({"favorites.movies":{"$all":[ "雷神1", "战狼" ]}},{"favorites.movies":1})
+    
+    2)查询数组包含[“雷神1”, “战狼” ]中任意一个的文档，跟顺序无关，跟数量无关
+    db.users.find({"favorites.movies":{"$in":[ "雷神1", "战狼" ]}},{"favorites.movies":1})
+    
+    4.索引查询
+    1)查询数组中第一个为"妇联4"的文档
+    db.users.find({"favorites.movies.0":"妇联4"},{"favorites.movies":1})
+    
+    5.返回数组子集
+    2)$slice可以取两个元素数组,分别表示跳过和限制的条数；
+    db.users.find({},{"favorites.movies":{"$slice":[1,2]},"favorites":1})
+
+### 1.2.4 对象数组选择查询
+
+    1. 单元素查询
+       db.users.find({"comments":{
+                            "author" : "lison6",
+                            "content" : "lison评论6","commentTime" : ISODate("2017-06-06T00:00:00Z")}})
+       备注：对象数组精确查找
+       
+    2.查找lison1 或者 lison12评论过的user （$in查找符） 
+    db.users.find({"comments.author":{"$in":["lison1","lison12"]}}).pretty()
+       备注：跟数量无关，跟顺序无关；
+       
+    3.查找lison1 和 lison12都评论过的user
+    db.users.find({"comments.author":{"$all":["lison12","lison1"]}}).pretty()
+       备注：跟数量有关，跟顺序无关；
+       
+    4.查找lison5评语为包含“苍老师”关键字的user（$elemMatch查找符） 
+    db.users.find({"comments":{"$elemMatch":{"author" : "lison5",
+     "content" : { "$regex" : ".*苍老师.*"}}}}) .pretty()
+        备注：数组中对象数据要符合查询对象里面所有的字段，$全元素匹配，和顺序无关；
+        
+### 1.2.5 mongoDB实现关联查询
+
+    单个bson文档最大不能超过16M；当文档超过16M的时候，就应该考虑使用引用（DBRef）了，在主表里存储一个id值，指向另一个表中的 id 值。
+    DBRef语法：{ "$ref" : <value>, "$id" : <value>, "$db" : <value> }
+    $ref：引用文档所在的集合的名称；
+    $id：所在集合的_id字段值；
+    $db：可选，集合所在的数据库实例；
+   
+    使用dbref脚本示例：
+    var lison = db.users.findOne({"username":"lison"});
+    var dbref = lison.comments;
+    db[dbref.$ref].findOne({"_id":dbref.$id})
+
+### 1.2.6 mongoDB聚合
+    $project：投影，指定输出文档中的字段；
+    $match：用于过滤数据，只输出符合条件的文档。$match使用MongoDB的标准查询操作
+    $limit：用来限制MongoDB聚合管道返回的文档数。
+    $skip：在聚合管道中跳过指定数量的文档，并返回余下的文档。
+    $unwind：将文档中的某一个数组类型字段拆分成多条，每条包含数组中的一个值。
+    $group：将集合中的文档分组，可用于统计结果。
+    $sort：将输入文档排序后输出
+    
+    1.查询2015年4月3号之前，每个用户每个月消费的总金额，并按用户名进行排序：
+     db.orders.aggregate([
+           {"$match":{ "orderTime" : { "$lt" : new Date("2015-04-03T16:00:00.000Z")}}}, 
+    {"$group":{"_id":{"useCode":"$useCode","month":{"$month":"$orderTime"}},"total":{"$sum":"$price"}}}, 
+    {"$sort":{"_id":1}}    
+    ])
+    2.
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
