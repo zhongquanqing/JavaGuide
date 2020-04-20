@@ -131,50 +131,49 @@
      db.users.deleteMany({"$and" : [ {"age" : {"$gt": 8}} , {"age" : {"$lt" : 25}}]})
 
 ### 1.2.3.查询选择器
-<table>
-  	<tr>
-		<td>运算符类型</td>
-		<td>运算符</td>
-		<td>描述</td>
-	<tr>
-	<tr>
-		<td rowspan="10">范围</td>
-	<tr>
-	<tr>
-		<td>$eq</td>
-		<td>等于</td>              		
-	</tr>
-	<tr>
-        <td>$lt</td>
-        <td>小于</td>    
-	</tr>
-	<tr>
-	    <td>$gt</td>
-        <td>大于</td> 
-	</tr>
-	<tr>
-    	 <td>$lte</td>
-         <td>小于等于</td> 
-    </tr>
-    <tr>
-    	<td>$gte</td>
-    	<td>大于等于</td>              		
-    </tr>
-    <tr>
-        <td>$in</td>
-        <td>判断元素是否在指定的集合范围里</td>    
-    </tr>
-    <tr>
-    	<td>$all</td>
-        <td>判断数组中是否包含某几个元素,无关顺序</td> 
-    </tr>
-    <tr>
-        <td>$nin</td>
-        <td>判断元素是否不在指定的集合范围里</td> 
-    </tr>
-
-</table>
-
+    <table>
+        <tr>
+            <td>运算符类型</td>
+            <td>运算符</td>
+            <td>描述</td>
+        <tr>
+        <tr>
+            <td rowspan="10">范围</td>
+        <tr>
+        <tr>
+            <td>$eq</td>
+            <td>等于</td>              		
+        </tr>
+        <tr>
+            <td>$lt</td>
+            <td>小于</td>    
+        </tr>
+        <tr>
+            <td>$gt</td>
+            <td>大于</td> 
+        </tr>
+        <tr>
+             <td>$lte</td>
+             <td>小于等于</td> 
+        </tr>
+        <tr>
+            <td>$gte</td>
+            <td>大于等于</td>              		
+        </tr>
+        <tr>
+            <td>$in</td>
+            <td>判断元素是否在指定的集合范围里</td>    
+        </tr>
+        <tr>
+            <td>$all</td>
+            <td>判断数组中是否包含某几个元素,无关顺序</td> 
+        </tr>
+        <tr>
+            <td>$nin</td>
+            <td>判断元素是否不在指定的集合范围里</td> 
+        </tr>
+    
+    </table>
 
 	布尔运算
     $not	不匹配结果
@@ -289,9 +288,12 @@
     {"$group":{"_id":{"useCode":"$useCode","month":{"$month":"$orderTime"}},"total":{"$sum":"$price"}}}, 
     {"$sort":{"_id":1}}    
     ])
-    2.
-
     
+## 2.1创建数据库
+
+### 2.1.1.mongoDB创建用户（替换中文地方即可）
+    db.createUser( {user: "用户名",pwd: "密码",roles: [ { role: "userAdminAnyDatabase", db: "admin" } ]})
+
     
     
     

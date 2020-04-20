@@ -38,3 +38,23 @@
           解压：tar zxvf filename.tar.gz
           压缩：tar zcvf filename.tar.gz dirname
           压缩多个文件：tar zcvf filename.tar.gz dirname1 dirname2 dirname3.....
+          
+##  1.2 linux查找命令
+    find /|grep nginx.conf  --查找bgunx.conf文件
+    find /|grep nginx*   --*代表模糊查询
+
+
+
+# 第二章   防火墙
+
+##  2.1 防火墙
+###  2.1.1 查看防火墙状态
+    systemctl  status firewalld
+    
+### 2.1.2 重启防火墙
+    启动：systemctl satrt firewalld
+    关闭：systemctl  stop firewalld
+    重启：systemctl restart firewalld
+### 2.1.3 防火墙开发固定端口（以mongodb为例）
+    查看27017是否开放端口：firewall--cmd --query-port=27017/tcp
+    开启27017端口：firewall-cmd --add-port=27017/tcp
