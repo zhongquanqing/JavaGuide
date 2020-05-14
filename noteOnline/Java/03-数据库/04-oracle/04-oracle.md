@@ -11,9 +11,11 @@
 ##  1.2.数据库的导入导出
     导出：expdp zhjg_job/sa123@orcl dumpfile= zhjg_job1017.dmp   directory=DATA_PUMP_DIR
     导导入:
-    impdp zhjg_job/sa123@192.168.10.32/orcl directory=DMPPATH  dumpfile=ZHJG_JOB0219.DMP table_exists_action=replace REMAP_SCHEMA=zhjg_job:zhjg_job
+    impdp hy_zhjg_job/sa123@127.0.0.1/orcl dumpfile=EXPHYCS20200422.DMP directory=DATA_PUMP_DIR table_exists_action=replace REMAP_SCHEMA=cs（原有用户）:hy_zhjg_job（你的用户） REMAP_TABLESPACE=cs（原有表空间）:hy_zhjg_job（你的表空间）
     备注：select * from dba_directories 查看导入的位置
     导入时候F:\DATABASE_BACKUP   将导出的数据库ZHJG_JOB0219.DMP放在这个目录下面，在导入
+    查看当前用户的默认表空间： select username,default_tablespace from dba_users order by username
+
 ## 1.3.查询表的所有字段名和数据类型
     查询语法：
     select A.COLUMN_NAME,A.DATA_TYPE  from user_tab_columns Awhere TABLE_NAME='表名'

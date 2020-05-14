@@ -18,6 +18,19 @@
     4.执行导入命令，执行命令前，需切换到monogdb的bin目录（导入前，必须数据库已存在）：mongorestore -d ysl D:\opt\20190117
     备注：mongodump导出命令，ysl是数据库名称（数据库名称要区分大小写），D:\opt\20190117导出文件路径。
     
+    
+### 1.1.3.mongoDB创建用户（替换中文地方即可）
+        db.createUser( {user: "用户名",pwd: "密码",roles: [ { role: "userAdminAnyDatabase", db: "admin" } ]})
+### 1.1.4.修改用户密码：
+    方法1：db.changeUserPassword("IBASE_DEV_YC","sa123");
+
+    方法2：db.updateUser("usertest",{pwd:"changepass1"})；
+### 1.1.5单条导入mongdb数据    
+    mongoimport --db ibase_dev_yc --collection job_create --file  
+    C:\Users\Administrator\Desktop\茂名备份0423\mongodb\ibase_mm\job_create.json       
+### 1.1.6多条导入一窗mongdb数据   
+
+
 ## 1.2. mongodb语句练习
 ### 1.2.1. 数据库练习脚本，将此脚本插入到mongodb数据库中，供下面语句的练习
     db.users.drop();
@@ -291,10 +304,7 @@
     
 ## 2.1创建数据库
 
-### 2.1.1.mongoDB创建用户（替换中文地方即可）
-    db.createUser( {user: "用户名",pwd: "密码",roles: [ { role: "userAdminAnyDatabase", db: "admin" } ]})
 
-    
     
     
     

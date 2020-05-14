@@ -58,3 +58,11 @@
 ### 2.1.3 防火墙开发固定端口（以mongodb为例）
     查看27017是否开放端口：firewall--cmd --query-port=27017/tcp
     开启27017端口：firewall-cmd --add-port=27017/tcp
+    
+# 第三章   linux服务器维护
+    3.1.1 关机
+    shutdown -h now
+    
+    3.1.2 重启
+    shutdown -r now
+    
