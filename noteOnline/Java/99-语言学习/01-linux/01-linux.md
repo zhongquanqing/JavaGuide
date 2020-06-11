@@ -55,14 +55,19 @@
     启动：systemctl satrt firewalld
     关闭：systemctl  stop firewalld
     重启：systemctl restart firewalld
+    
 ### 2.1.3 防火墙开发固定端口（以mongodb为例）
-    查看27017是否开放端口：firewall--cmd --query-port=27017/tcp
+    查看27017是否开放端口：firewall-cmd --query-port=27017/tcp
     开启27017端口：firewall-cmd --add-port=27017/tcp
     
-# 第三章   linux服务器维护
-    3.1.1 关机
-    shutdown -h now
+ ### 2.1.4查看端口是否开通
+ telnet ip  端口
     
-    3.1.2 重启
+# 第三章   linux服务器维护
+##  3.1 常用命令
+### 3.1.1关机
+    shutdown -h now
+   
+### 3.1.2 重启
     shutdown -r now
     
