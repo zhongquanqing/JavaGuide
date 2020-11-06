@@ -314,9 +314,14 @@
     
     
 
-# 第二章 概述
-### 1.1 什么是monodb
-    Mon2
+# 第二章 常用操作
+### 2.1 regex
+    以下命令将查找不区分大小写的字符串 邹：
+    db.getCollection("job_handled").find({"job_base-acceptername":{$regex:"邹",$options:"$i"}})
+### 2.2 or    
+    查询键 by 值为 菜鸟教程 或键 title 值
+    db.col.find({$or:[{"by":"菜鸟教程"},{"title": "MongoDB 教程"}]}).pretty()
 
-
-    
+### 2.3 AND 和 OR 联合使用
+    类似常规 SQL 语句为： 'where likes>50 AND (by = '菜鸟教程' OR title = 'MongoDB 教程')'
+    db.col.find({"likes": {$gt:50}, $or: [{"by": "菜鸟教程"},{"title": "MongoDB 教程"}]}).pretty()
